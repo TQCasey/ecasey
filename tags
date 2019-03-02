@@ -1,0 +1,1877 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+-fields	Makefile	/^	ctags -R --fields=+lS$/;"	m	language:Make
+ABT_MODE	include/2440/ports.h	133;"	d	language:C++
+AC_MICDATA	include/2440/2440addr.h	310;"	d	language:C++
+AC_PCMDATA	include/2440/2440addr.h	309;"	d	language:C++
+AOBJS	fs/Makefile	/^AOBJS		= start.o$/;"	m	language:Make
+AOBJS	kernel/Makefile	/^AOBJS		= start.o page\/dabt.o$/;"	m	language:Make
+AOBJS	lib/Makefile	/^AOBJS		=$/;"	m	language:Make
+AOBJS	net/Makefile	/^AOBJS		= start.o$/;"	m	language:Make
+AOBJS	sh/Makefile	/^AOBJS		= start.o$/;"	m	language:Make
+AP0_FAULT	include/2440/drvs.h	146;"	d	language:C++
+AP0_RW	include/2440/drvs.h	149;"	d	language:C++
+AP0_SU_ONLY	include/2440/drvs.h	147;"	d	language:C++
+AP0_USR_RO	include/2440/drvs.h	148;"	d	language:C++
+AP1_FAULT	include/2440/drvs.h	152;"	d	language:C++
+AP1_RW	include/2440/drvs.h	155;"	d	language:C++
+AP1_SU_ONLY	include/2440/drvs.h	153;"	d	language:C++
+AP1_USR_RO	include/2440/drvs.h	154;"	d	language:C++
+AP2_FAULT	include/2440/drvs.h	159;"	d	language:C++
+AP2_RW	include/2440/drvs.h	162;"	d	language:C++
+AP2_SU_ONLY	include/2440/drvs.h	160;"	d	language:C++
+AP2_USR_RO	include/2440/drvs.h	161;"	d	language:C++
+AP3_FAULT	include/2440/drvs.h	165;"	d	language:C++
+AP3_RW	include/2440/drvs.h	168;"	d	language:C++
+AP3_SU_ONLY	include/2440/drvs.h	166;"	d	language:C++
+AP3_USR_RO	include/2440/drvs.h	167;"	d	language:C++
+AP_FAULT	include/2440/drvs.h	139;"	d	language:C++
+AP_FAULT_ALL	include/2440/drvs.h	173;"	d	language:C++
+AP_RO_ALL	include/2440/drvs.h	172;"	d	language:C++
+AP_RW	include/2440/drvs.h	142;"	d	language:C++
+AP_RW_ALL	include/2440/drvs.h	170;"	d	language:C++
+AP_SU_ONLY	include/2440/drvs.h	140;"	d	language:C++
+AP_USR_RO	include/2440/drvs.h	141;"	d	language:C++
+AP_USR_RO_ALL	include/2440/drvs.h	171;"	d	language:C++
+AR	lib/Makefile	/^AR			= arm-linux-ar$/;"	m	language:Make
+ARF	lib/Makefile	/^ARF			= rc$/;"	m	language:Make
+AVERAGE_PAGE_NUM_PER_BUDDY	kernel/kmalloc.c	189;"	d	language:C	file:
+B0_PMC	include/asm/ioaddr.h	40;"	d	language:C++
+B0_Tacc	include/asm/ioaddr.h	36;"	d	language:C++
+B0_Tacp	include/asm/ioaddr.h	39;"	d	language:C++
+B0_Tacs	include/asm/ioaddr.h	34;"	d	language:C++
+B0_Tah	include/asm/ioaddr.h	38;"	d	language:C++
+B0_Tcoh	include/asm/ioaddr.h	37;"	d	language:C++
+B0_Tcos	include/asm/ioaddr.h	35;"	d	language:C++
+B1_PMC	include/asm/ioaddr.h	49;"	d	language:C++
+B1_Tacc	include/asm/ioaddr.h	45;"	d	language:C++
+B1_Tacp	include/asm/ioaddr.h	48;"	d	language:C++
+B1_Tacs	include/asm/ioaddr.h	43;"	d	language:C++
+B1_Tah	include/asm/ioaddr.h	47;"	d	language:C++
+B1_Tcoh	include/asm/ioaddr.h	46;"	d	language:C++
+B1_Tcos	include/asm/ioaddr.h	44;"	d	language:C++
+B2_PMC	include/asm/ioaddr.h	58;"	d	language:C++
+B2_Tacc	include/asm/ioaddr.h	54;"	d	language:C++
+B2_Tacp	include/asm/ioaddr.h	57;"	d	language:C++
+B2_Tacs	include/asm/ioaddr.h	52;"	d	language:C++
+B2_Tah	include/asm/ioaddr.h	56;"	d	language:C++
+B2_Tcoh	include/asm/ioaddr.h	55;"	d	language:C++
+B2_Tcos	include/asm/ioaddr.h	53;"	d	language:C++
+B3_PMC	include/asm/ioaddr.h	67;"	d	language:C++
+B3_Tacc	include/asm/ioaddr.h	63;"	d	language:C++
+B3_Tacp	include/asm/ioaddr.h	66;"	d	language:C++
+B3_Tacs	include/asm/ioaddr.h	61;"	d	language:C++
+B3_Tah	include/asm/ioaddr.h	65;"	d	language:C++
+B3_Tcoh	include/asm/ioaddr.h	64;"	d	language:C++
+B3_Tcos	include/asm/ioaddr.h	62;"	d	language:C++
+B4_PMC	include/asm/ioaddr.h	76;"	d	language:C++
+B4_Tacc	include/asm/ioaddr.h	72;"	d	language:C++
+B4_Tacp	include/asm/ioaddr.h	75;"	d	language:C++
+B4_Tacs	include/asm/ioaddr.h	70;"	d	language:C++
+B4_Tah	include/asm/ioaddr.h	74;"	d	language:C++
+B4_Tcoh	include/asm/ioaddr.h	73;"	d	language:C++
+B4_Tcos	include/asm/ioaddr.h	71;"	d	language:C++
+B5_PMC	include/asm/ioaddr.h	85;"	d	language:C++
+B5_Tacc	include/asm/ioaddr.h	81;"	d	language:C++
+B5_Tacp	include/asm/ioaddr.h	84;"	d	language:C++
+B5_Tacs	include/asm/ioaddr.h	79;"	d	language:C++
+B5_Tah	include/asm/ioaddr.h	83;"	d	language:C++
+B5_Tcoh	include/asm/ioaddr.h	82;"	d	language:C++
+B5_Tcos	include/asm/ioaddr.h	80;"	d	language:C++
+B6_MT	include/asm/ioaddr.h	88;"	d	language:C++
+B6_SCAN	include/asm/ioaddr.h	90;"	d	language:C++
+B6_Trcd	include/asm/ioaddr.h	89;"	d	language:C++
+B7_MT	include/asm/ioaddr.h	93;"	d	language:C++
+B7_SCAN	include/asm/ioaddr.h	95;"	d	language:C++
+B7_Trcd	include/asm/ioaddr.h	94;"	d	language:C++
+BAD_BLK_FLAG	kernel/drv/blk/blk_drv.c	9;"	d	language:C	file:
+BANKCON0	include/asm/ioaddr.h	11;"	d	language:C++
+BANKCON1	include/asm/ioaddr.h	12;"	d	language:C++
+BANKCON2	include/asm/ioaddr.h	13;"	d	language:C++
+BANKCON3	include/asm/ioaddr.h	14;"	d	language:C++
+BANKCON4	include/asm/ioaddr.h	15;"	d	language:C++
+BANKCON5	include/asm/ioaddr.h	16;"	d	language:C++
+BANKCON6	include/asm/ioaddr.h	17;"	d	language:C++
+BANKCON7	include/asm/ioaddr.h	18;"	d	language:C++
+BANKSIZE	include/asm/ioaddr.h	20;"	d	language:C++
+BAUD_RATE	include/ecasey/kernel.h	13;"	d	language:C++
+BCD2O	include/2440/drvs.h	235;"	d	language:C++
+BDP	boot/Makefile	/^BDP			= loader.dump$/;"	m	language:Make
+BDP	fs/Makefile	/^BDP			= $(NAME).dump$/;"	m	language:Make
+BDP	kernel/Makefile	/^BDP			= $(NAME).bin.dump$/;"	m	language:Make
+BDP	net/Makefile	/^BDP			= $(NAME).dump$/;"	m	language:Make
+BDP	sh/Makefile	/^BDP			= $(NAME).dump$/;"	m	language:Make
+BDUMPF	boot/Makefile	/^BDUMPF		= -D -b binary -m arm $/;"	m	language:Make
+BDUMPF	fs/Makefile	/^BDUMPF		= -D -b binary -m arm $/;"	m	language:Make
+BDUMPF	kernel/Makefile	/^BDUMPF		= -D -b binary -m arm $/;"	m	language:Make
+BDUMPF	net/Makefile	/^BDUMPF		= -D -b binary -m arm $/;"	m	language:Make
+BDUMPF	sh/Makefile	/^BDUMPF		= -D -b binary -m arm $/;"	m	language:Make
+BIN	boot/Makefile	/^BIN			= loader.bin$/;"	m	language:Make
+BIN	fs/Makefile	/^BIN			= $(NAME).bin$/;"	m	language:Make
+BIN	kernel/Makefile	/^BIN			= $(NAME).bin$/;"	m	language:Make
+BIN	net/Makefile	/^BIN			= $(NAME).bin$/;"	m	language:Make
+BIN	sh/Makefile	/^BIN			= $(NAME).bin$/;"	m	language:Make
+BIT_ADC	include/2440/2440addr.h	467;"	d	language:C++
+BIT_ALLMSK	include/2440/2440addr.h	468;"	d	language:C++
+BIT_BAT_FLT	include/2440/2440addr.h	443;"	d	language:C++
+BIT_CAM	include/2440/2440addr.h	442;"	d	language:C++
+BIT_DMA0	include/2440/2440addr.h	453;"	d	language:C++
+BIT_DMA1	include/2440/2440addr.h	454;"	d	language:C++
+BIT_DMA2	include/2440/2440addr.h	455;"	d	language:C++
+BIT_DMA3	include/2440/2440addr.h	456;"	d	language:C++
+BIT_EINT0	include/2440/2440addr.h	436;"	d	language:C++
+BIT_EINT1	include/2440/2440addr.h	437;"	d	language:C++
+BIT_EINT2	include/2440/2440addr.h	438;"	d	language:C++
+BIT_EINT3	include/2440/2440addr.h	439;"	d	language:C++
+BIT_EINT4_7	include/2440/2440addr.h	440;"	d	language:C++
+BIT_EINT8_23	include/2440/2440addr.h	441;"	d	language:C++
+BIT_IIC	include/2440/2440addr.h	463;"	d	language:C++
+BIT_LCD	include/2440/2440addr.h	452;"	d	language:C++
+BIT_NFCON	include/2440/2440addr.h	460;"	d	language:C++
+BIT_RTC	include/2440/2440addr.h	466;"	d	language:C++
+BIT_SDI	include/2440/2440addr.h	457;"	d	language:C++
+BIT_SPI0	include/2440/2440addr.h	458;"	d	language:C++
+BIT_SPI1	include/2440/2440addr.h	465;"	d	language:C++
+BIT_SUB_AC97	include/2440/2440addr.h	471;"	d	language:C++
+BIT_SUB_ADC	include/2440/2440addr.h	475;"	d	language:C++
+BIT_SUB_ALLMSK	include/2440/2440addr.h	470;"	d	language:C++
+BIT_SUB_CAM_C	include/2440/2440addr.h	474;"	d	language:C++
+BIT_SUB_CAM_P	include/2440/2440addr.h	473;"	d	language:C++
+BIT_SUB_ERR0	include/2440/2440addr.h	483;"	d	language:C++
+BIT_SUB_ERR1	include/2440/2440addr.h	480;"	d	language:C++
+BIT_SUB_ERR2	include/2440/2440addr.h	477;"	d	language:C++
+BIT_SUB_RXD0	include/2440/2440addr.h	485;"	d	language:C++
+BIT_SUB_RXD1	include/2440/2440addr.h	482;"	d	language:C++
+BIT_SUB_RXD2	include/2440/2440addr.h	479;"	d	language:C++
+BIT_SUB_TC	include/2440/2440addr.h	476;"	d	language:C++
+BIT_SUB_TXD0	include/2440/2440addr.h	484;"	d	language:C++
+BIT_SUB_TXD1	include/2440/2440addr.h	481;"	d	language:C++
+BIT_SUB_TXD2	include/2440/2440addr.h	478;"	d	language:C++
+BIT_SUB_WDT	include/2440/2440addr.h	472;"	d	language:C++
+BIT_TICK	include/2440/2440addr.h	444;"	d	language:C++
+BIT_TIMER0	include/2440/2440addr.h	446;"	d	language:C++
+BIT_TIMER1	include/2440/2440addr.h	447;"	d	language:C++
+BIT_TIMER2	include/2440/2440addr.h	448;"	d	language:C++
+BIT_TIMER3	include/2440/2440addr.h	449;"	d	language:C++
+BIT_TIMER4	include/2440/2440addr.h	450;"	d	language:C++
+BIT_UART0	include/2440/2440addr.h	464;"	d	language:C++
+BIT_UART1	include/2440/2440addr.h	459;"	d	language:C++
+BIT_UART2	include/2440/2440addr.h	451;"	d	language:C++
+BIT_USBD	include/2440/2440addr.h	461;"	d	language:C++
+BIT_USBH	include/2440/2440addr.h	462;"	d	language:C++
+BIT_WDT_AC97	include/2440/2440addr.h	445;"	d	language:C++
+BK6_7_MAP	include/asm/ioaddr.h	109;"	d	language:C++
+BL	include/asm/ioaddr.h	116;"	d	language:C++
+BLKS_PER_NANDF	boot/nand.c	32;"	d	language:C	file:
+BLKS_PER_NANDF	include/2440/drvs.h	28;"	d	language:C++
+BLKS_PER_NANDF	tools/a/main.c	15;"	d	language:C	file:
+BLKS_PER_NANDF	tools/main.c	13;"	d	language:C	file:
+BLK_BITS_MSK	include/ecasey/fs.h	149;"	d	language:C++
+BLK_BITS_SFT	include/ecasey/fs.h	148;"	d	language:C++
+BLK_BUF_SIZE	include/2440/ports.h	106;"	d	language:C++
+BLK_BUF_SIZE_SFT	include/2440/ports.h	107;"	d	language:C++
+BLK_OBJ_MSK	include/ecasey/fs.h	156;"	d	language:C++
+BLK_OBJ_SFT	include/ecasey/fs.h	155;"	d	language:C++
+BLK_SIZE	include/ecasey/fs.h	125;"	d	language:C++
+BLK_SIZE_MSK	include/ecasey/fs.h	152;"	d	language:C++
+BLK_SIZE_SFT	include/ecasey/fs.h	151;"	d	language:C++
+BT	include/asm/ioaddr.h	115;"	d	language:C++
+BUDDY_END	kernel/kmalloc.c	242;"	d	language:C	file:
+BUFFER_HEAD	include/ecasey/fs.h	/^}BUFFER_HEAD,*LPBUFFER_HEAD;$/;"	t	language:C++	typeref:struct:tagBUFFER_HEAD
+BUFFER_SIZE	fs/buffer.c	12;"	d	language:C	file:
+BUF_END	fs/buffer.c	14;"	d	language:C	file:
+BUF_START	fs/buffer.c	13;"	d	language:C	file:
+BULK_PKT_SIZE	include/2440/2440addr.h	24;"	d	language:C++
+BURST_EN	include/asm/ioaddr.h	106;"	d	language:C++
+BUSWIDTH	include/2440/2440addr.h	18;"	d	language:C++
+BWSCON	include/asm/ioaddr.h	10;"	d	language:C++
+BYTES_PER_PAGE	boot/nand.c	29;"	d	language:C	file:
+BYTES_PER_PAGE	include/2440/drvs.h	25;"	d	language:C++
+BYTES_PER_PAGE	tools/a/main.c	12;"	d	language:C	file:
+BYTES_PER_PAGE	tools/main.c	10;"	d	language:C	file:
+CACHE_ST_NR	include/2440/ports.h	120;"	d	language:C++
+CACHE_ST_SIZE	include/2440/ports.h	119;"	d	language:C++
+CASEY_MAGIC	include/ecasey/fs.h	143;"	d	language:C++
+CB	include/2440/drvs.h	133;"	d	language:C++
+CC	boot/Makefile	/^CC	    	= arm-linux-gcc$/;"	m	language:Make
+CC	fs/Makefile	/^CC	    	= arm-linux-gcc$/;"	m	language:Make
+CC	kernel/Makefile	/^CC	    	= arm-linux-gcc$/;"	m	language:Make
+CC	lib/Makefile	/^CC	    	= arm-linux-gcc$/;"	m	language:Make
+CC	net/Makefile	/^CC	    	= arm-linux-gcc$/;"	m	language:Make
+CC	sh/Makefile	/^CC	    	= arm-linux-gcc$/;"	m	language:Make
+CCF	boot/Makefile	/^CCF			= -I ..\/include  -nostdlib -Wall -Wstrict-prototypes -O0 \\$/;"	m	language:Make
+CCF	fs/Makefile	/^CCF			= -I ..\/include  -nostdlib -Wall -Wstrict-prototypes -O0 \\$/;"	m	language:Make
+CCF	kernel/Makefile	/^CCF			= -I ..\/include  -nostdlib -Wall -Wstrict-prototypes -O0 \\$/;"	m	language:Make
+CCF	lib/Makefile	/^CCF			= -I ..\/include  -nostdlib -Wall -Wstrict-prototypes -O0 \\$/;"	m	language:Make
+CCF	net/Makefile	/^CCF			= -I ..\/include  -nostdlib -Wall -Wstrict-prototypes -O0 \\$/;"	m	language:Make
+CCF	sh/Makefile	/^CCF			= -I ..\/include  -nostdlib -Wall -Wstrict-prototypes -O0 \\$/;"	m	language:Make
+CHS_BUF_SIZE	kernel/drv/chr/tty.c	12;"	d	language:C	file:
+CL	include/asm/ioaddr.h	114;"	d	language:C++
+CLKCON	include/asm/ioaddr.h	122;"	d	language:C++
+CLKDIVN	include/asm/ioaddr.h	124;"	d	language:C++
+CLKSLOW	include/asm/ioaddr.h	123;"	d	language:C++
+CNB	include/2440/drvs.h	134;"	d	language:C++
+COBJS	fs/Makefile	/^COBJS		= main.o buffer.o blk_rw.o bmap.o inode.o super.o frw.o crash.o namei.o open.o rw.o iocntl.o pipe.o \\$/;"	m	language:Make
+COBJS	kernel/Makefile	/^COBJS		= kmain.o clock.o except.o exit.o kmalloc.o sched.o signal.o swi.o task.o timer.o vector.o ramdisk.o\\$/;"	m	language:Make
+COBJS	lib/Makefile	/^COBJS		= string.o assert.o mail.o libc.o klib\/uart.o klib\/mmu.o klib\/panic.o$/;"	m	language:Make
+COBJS	net/Makefile	/^COBJS		= main.o$/;"	m	language:Make
+COBJS	sh/Makefile	/^COBJS		= main.o $/;"	m	language:Make
+CUR_TICKS	include/ecasey/kernel.h	42;"	d	language:C++
+CUR_TIME	include/ecasey/fs.h	168;"	d	language:C++
+DCKCON	include/asm/ioaddr.h	143;"	d	language:C++
+DEV_INODE	include/ecasey/fs.h	/^}DEV_INODE,*LPDEV_INODE;$/;"	t	language:C++	typeref:struct:tagDEV_INODE
+DEV_NAND	include/ecasey/fs.h	163;"	d	language:C++
+DEV_RAM	include/ecasey/fs.h	164;"	d	language:C++
+DEV_SDCARD	include/ecasey/fs.h	165;"	d	language:C++
+DEV_SUPER_BLOCK	include/ecasey/fs.h	/^}DEV_SUPER_BLOCK,*LPDEV_SUPER_BLOCK;$/;"	t	language:C++	typeref:struct:tagDEV_SUPER_BLOCK
+DIR_ENTRY	include/ecasey/fs.h	/^}DIR_ENTRY,*LPDIR_ENTRY;$/;"	t	language:C++	typeref:struct:tagDIR_ENTRY
+DOMAIN_FAULT	include/2440/drvs.h	128;"	d	language:C++
+DOMAIN_SYS	include/2440/drvs.h	129;"	d	language:C++
+DOMAIN_USR	include/2440/drvs.h	130;"	d	language:C++
+DUMP	boot/Makefile	/^DUMP		= arm-linux-objdump$/;"	m	language:Make
+DUMP	fs/Makefile	/^DUMP		= arm-linux-objdump$/;"	m	language:Make
+DUMP	kernel/Makefile	/^DUMP		= arm-linux-objdump$/;"	m	language:Make
+DUMP	net/Makefile	/^DUMP		= arm-linux-objdump$/;"	m	language:Make
+DUMP	sh/Makefile	/^DUMP		= arm-linux-objdump$/;"	m	language:Make
+DW_B1	include/asm/ioaddr.h	25;"	d	language:C++
+DW_B2	include/asm/ioaddr.h	26;"	d	language:C++
+DW_B3	include/asm/ioaddr.h	27;"	d	language:C++
+DW_B4	include/asm/ioaddr.h	28;"	d	language:C++
+DW_B5	include/asm/ioaddr.h	29;"	d	language:C++
+DW_B6	include/asm/ioaddr.h	30;"	d	language:C++
+DW_B7	include/asm/ioaddr.h	31;"	d	language:C++
+EBADFD	include/errno.h	18;"	d	language:C++
+EBADFSCALL	include/errno.h	21;"	d	language:C++
+EBADRD	include/errno.h	8;"	d	language:C++
+EBADWR	include/errno.h	9;"	d	language:C++
+EDIR	include/errno.h	16;"	d	language:C++
+EDP	boot/Makefile	/^EDP			= loader.elf.dump$/;"	m	language:Make
+EDP	fs/Makefile	/^EDP			= $(NAME).elf.dump$/;"	m	language:Make
+EDP	kernel/Makefile	/^EDP			= $(NAME).elf.dump$/;"	m	language:Make
+EDP	net/Makefile	/^EDP			= $(NAME).elf.dump$/;"	m	language:Make
+EDP	sh/Makefile	/^EDP			= $(NAME).elf.dump$/;"	m	language:Make
+EDUMPF	boot/Makefile	/^EDUMPF		= -S -D -t $/;"	m	language:Make
+EDUMPF	fs/Makefile	/^EDUMPF		= -S -D -t $/;"	m	language:Make
+EDUMPF	kernel/Makefile	/^EDUMPF		= -S -D -t $/;"	m	language:Make
+EDUMPF	net/Makefile	/^EDUMPF		= -S -D -t $/;"	m	language:Make
+EDUMPF	sh/Makefile	/^EDUMPF		= -S -D -t $/;"	m	language:Make
+EEMPTY	include/errno.h	14;"	d	language:C++
+EINTFLT0	include/asm/ioaddr.h	147;"	d	language:C++
+EINTFLT1	include/asm/ioaddr.h	148;"	d	language:C++
+EINTFLT2	include/asm/ioaddr.h	149;"	d	language:C++
+EINTFLT3	include/asm/ioaddr.h	150;"	d	language:C++
+EINTMASK	include/asm/ioaddr.h	151;"	d	language:C++
+EINTPEND	include/asm/ioaddr.h	152;"	d	language:C++
+EI_NIDENT	include/ecasey/exec.h	4;"	d	language:C++
+ELF	boot/Makefile	/^ELF			= loader.elf$/;"	m	language:Make
+ELF	fs/Makefile	/^ELF			= $(NAME).elf$/;"	m	language:Make
+ELF	kernel/Makefile	/^ELF			= $(NAME).elf$/;"	m	language:Make
+ELF	net/Makefile	/^ELF			= $(NAME).elf$/;"	m	language:Make
+ELF	sh/Makefile	/^ELF			= $(NAME).elf$/;"	m	language:Make
+ENO	include/errno.h	4;"	d	language:C++
+ENOFD	include/errno.h	20;"	d	language:C++
+ENOPATH	include/errno.h	5;"	d	language:C++
+ENOPERM	include/errno.h	10;"	d	language:C++
+ENOSRC	include/errno.h	7;"	d	language:C++
+ENOTD	include/errno.h	17;"	d	language:C++
+ENOTELF	include/errno.h	22;"	d	language:C++
+ENOTEMPT	include/errno.h	15;"	d	language:C++
+ENTRIES_PER_BLK	include/ecasey/fs.h	127;"	d	language:C++
+EOBUSY	include/errno.h	11;"	d	language:C++
+EOFREE	include/errno.h	12;"	d	language:C++
+EOINVALID	include/errno.h	19;"	d	language:C++
+EOISFULL	include/errno.h	25;"	d	language:C++
+EONOSURPOT	include/errno.h	24;"	d	language:C++
+EOPNFAILD	include/errno.h	13;"	d	language:C++
+EOUNDEF	include/errno.h	23;"	d	language:C++
+EPDUP	include/errno.h	6;"	d	language:C++
+EXTINT0	include/asm/ioaddr.h	144;"	d	language:C++
+EXTINT1	include/asm/ioaddr.h	145;"	d	language:C++
+EXTINT2	include/asm/ioaddr.h	146;"	d	language:C++
+FAULT_PL	include/2440/drvs.h	123;"	d	language:C++
+FILE_MODE	tools/a/main.c	10;"	d	language:C	file:
+FIN	include/ecasey/kernel.h	14;"	d	language:C++
+FIQ_MODE	include/2440/ports.h	130;"	d	language:C++
+FSR_PROC	kernel/page/abt.c	/^typedef i32 (*FSR_PROC) (RO i8 *desc,u32 type,u32 addr);$/;"	t	language:C	file:
+FS_BUFFER	include/2440/ports.h	109;"	d	language:C++
+FS_BUFFER_SIZE	include/2440/ports.h	110;"	d	language:C++
+FS_CLOSE	include/ecasey/fs.h	6;"	d	language:C++
+FS_IMG	include/2440/ports.h	26;"	d	language:C++
+FS_IMG_SIZE	include/2440/ports.h	27;"	d	language:C++
+FS_OPEN	include/ecasey/fs.h	5;"	d	language:C++
+FS_READ	include/ecasey/fs.h	8;"	d	language:C++
+FS_SEEK	include/ecasey/fs.h	7;"	d	language:C++
+FS_WRITE	include/ecasey/fs.h	9;"	d	language:C++
+GID	include/ecasey/fs.h	170;"	d	language:C++
+GPFCON	include/asm/ioaddr.h	137;"	d	language:C++
+GPFDAT	include/asm/ioaddr.h	138;"	d	language:C++
+GPFUP	include/asm/ioaddr.h	139;"	d	language:C++
+GSTATUS0	include/asm/ioaddr.h	153;"	d	language:C++
+GSTATUS1	include/asm/ioaddr.h	154;"	d	language:C++
+GSTATUS2	include/asm/ioaddr.h	155;"	d	language:C++
+GSTATUS3	include/asm/ioaddr.h	156;"	d	language:C++
+GSTATUS4	include/asm/ioaddr.h	157;"	d	language:C++
+HEAP_AREA	include/2440/ports.h	71;"	d	language:C++
+IISFIFO	include/2440/2440addr.h	298;"	d	language:C++
+IND_EMPTY	include/ecasey/fs.h	161;"	d	language:C++
+INIT_LIST_HEAD	kernel/kmalloc.c	/^LOCAL INLINE void INIT_LIST_HEAD(struct list_head *list)$/;"	f	language:C	signature:(struct list_head *list)
+INLINE	include/sys/types.h	27;"	d	language:C++
+INODES_PER_BLK	include/ecasey/fs.h	126;"	d	language:C++
+INTMOD	include/asm/ioaddr.h	128;"	d	language:C++
+INTMSK	include/asm/ioaddr.h	129;"	d	language:C++
+INTOFFSET	include/asm/ioaddr.h	132;"	d	language:C++
+INTPND	include/asm/ioaddr.h	131;"	d	language:C++
+INTSUBMSK	include/asm/ioaddr.h	134;"	d	language:C++
+IO_BYTE	include/2440/2440addr.h	32;"	d	language:C++
+IO_SHORT	include/2440/2440addr.h	31;"	d	language:C++
+IO_WORD	include/2440/2440addr.h	30;"	d	language:C++
+IRQ_FUNC	kernel/vector.c	/^typedef i32 (*IRQ_FUNC) (void);$/;"	t	language:C	file:
+IRQ_MODE	include/2440/ports.h	131;"	d	language:C++
+IRQ_TABLE	include/2440/ports.h	81;"	d	language:C++
+IRQ_TABLE_SIZE	include/2440/ports.h	82;"	d	language:C++
+I_BLOCK_SPECIAL	include/sys/stat.h	46;"	d	language:C++
+I_CHAR_SPECIAL	include/sys/stat.h	47;"	d	language:C++
+I_DIRECTORY	include/sys/stat.h	44;"	d	language:C++
+I_MAGIC	include/ecasey/fs.h	144;"	d	language:C++
+I_NAMED_PIPE	include/sys/stat.h	48;"	d	language:C++
+I_REGULAR	include/sys/stat.h	45;"	d	language:C++
+I_SET_GID_BIT	include/sys/stat.h	50;"	d	language:C++
+I_SET_UID_BIT	include/sys/stat.h	49;"	d	language:C++
+I_TYPE	include/sys/stat.h	43;"	d	language:C++
+Idle	kernel/kmain.c	/^void Idle (void)$/;"	f	language:C	signature:(void)
+KERNEL_CODE_START	include/2440/ports.h	49;"	d	language:C++
+KERNEL_IMG	include/2440/ports.h	23;"	d	language:C++
+KERNEL_IMG_SIZE	include/2440/ports.h	24;"	d	language:C++
+KERNEL_MEM_END	kernel/kmalloc.c	154;"	d	language:C	file:
+KERNEL_PAGE_END	kernel/kmalloc.c	168;"	d	language:C	file:
+KERNEL_PAGE_NUM	kernel/kmalloc.c	164;"	d	language:C	file:
+KERNEL_PAGE_START	kernel/kmalloc.c	169;"	d	language:C	file:
+KERNEL_PAGE_TBL	include/2440/ports.h	57;"	d	language:C++
+KERNEL_PAGING_END	kernel/kmalloc.c	159;"	d	language:C	file:
+KERNEL_PAGING_START	kernel/kmalloc.c	158;"	d	language:C	file:
+KERNEL_SPACE_SIZE	include/2440/ports.h	38;"	d	language:C++
+KERNEL_SPACE_START	include/2440/ports.h	37;"	d	language:C++
+KERNEL_STACK	include/2440/ports.h	50;"	d	language:C++
+KERNEL_STACK_SIZE	include/2440/ports.h	51;"	d	language:C++
+KERNEL_TTB	include/2440/ports.h	56;"	d	language:C++
+KLIB	kernel/Makefile	/^KLIB		= ..\/lib\/klib.a$/;"	m	language:Make
+KLIB	lib/Makefile	/^KLIB		= klib.a $/;"	m	language:Make
+KOBJS	lib/Makefile	/^KOBJS		= string.o assert.o klib\/uart.o klib\/mmu.o klib\/panic.o$/;"	m	language:Make
+LCD_ASCII_X	include/2440/drvs.h	184;"	d	language:C++
+LCD_ASCII_Y	include/2440/drvs.h	185;"	d	language:C++
+LCD_BPP24BL	include/2440/drvs.h	210;"	d	language:C++
+LCD_BPPMODE	include/2440/drvs.h	191;"	d	language:C++
+LCD_BSWP	include/2440/drvs.h	221;"	d	language:C++
+LCD_BUF	kernel/drv/lcd/lcd.c	26;"	d	language:C	file:
+LCD_BUFFER	include/2440/ports.h	101;"	d	language:C++
+LCD_BUF_SIZE	include/2440/ports.h	102;"	d	language:C++
+LCD_COLS_VAL	include/2440/drvs.h	203;"	d	language:C++
+LCD_DISABLE	include/2440/drvs.h	193;"	d	language:C++
+LCD_ENABLE	include/2440/drvs.h	192;"	d	language:C++
+LCD_ENLEND	include/2440/drvs.h	220;"	d	language:C++
+LCD_ENPWREN	include/2440/drvs.h	219;"	d	language:C++
+LCD_FRM565	include/2440/drvs.h	211;"	d	language:C++
+LCD_HEIGHT	include/2440/drvs.h	183;"	d	language:C++
+LCD_HPWR_LEN	include/2440/drvs.h	207;"	d	language:C++
+LCD_HSWP	include/2440/drvs.h	222;"	d	language:C++
+LCD_INVFRAME	include/2440/drvs.h	214;"	d	language:C++
+LCD_INVLEND	include/2440/drvs.h	218;"	d	language:C++
+LCD_INVPWREN	include/2440/drvs.h	217;"	d	language:C++
+LCD_INVVCLK	include/2440/drvs.h	212;"	d	language:C++
+LCD_INVVD	include/2440/drvs.h	215;"	d	language:C++
+LCD_INVVDEN	include/2440/drvs.h	216;"	d	language:C++
+LCD_INVVLINE	include/2440/drvs.h	213;"	d	language:C++
+LCD_LEFT_MARGIN	include/2440/drvs.h	202;"	d	language:C++
+LCD_LINE_VAL	include/2440/drvs.h	197;"	d	language:C++
+LCD_LOWER_MARGIN	include/2440/drvs.h	198;"	d	language:C++
+LCD_MMODE	include/2440/drvs.h	189;"	d	language:C++
+LCD_PIXCLK	include/2440/drvs.h	188;"	d	language:C++
+LCD_PNRMODE	include/2440/drvs.h	190;"	d	language:C++
+LCD_RIGHT_MARGIN	include/2440/drvs.h	204;"	d	language:C++
+LCD_UPPER_MARGIN	include/2440/drvs.h	196;"	d	language:C++
+LCD_VPWR_LEN	include/2440/drvs.h	199;"	d	language:C++
+LCD_WIDTH	include/2440/drvs.h	182;"	d	language:C++
+LCD_XSIZE	include/2440/drvs.h	224;"	d	language:C++
+LCD_YSIZE	include/2440/drvs.h	225;"	d	language:C++
+LD	boot/Makefile	/^LD			= arm-linux-ld$/;"	m	language:Make
+LD	fs/Makefile	/^LD			= arm-linux-ld$/;"	m	language:Make
+LD	kernel/Makefile	/^LD			= arm-linux-ld$/;"	m	language:Make
+LD	net/Makefile	/^LD			= arm-linux-ld$/;"	m	language:Make
+LD	sh/Makefile	/^LD			= arm-linux-ld$/;"	m	language:Make
+LDF	boot/Makefile	/^LDF			= -T$(LDS)$/;"	m	language:Make
+LDF	fs/Makefile	/^LDF			= -T$(LDS) --gc-sections$/;"	m	language:Make
+LDF	kernel/Makefile	/^LDF			= -T$(LDS) --gc-sections$/;"	m	language:Make
+LDF	net/Makefile	/^LDF			= -T$(LDS) --gc-sections$/;"	m	language:Make
+LDF	sh/Makefile	/^LDF			= -T$(LDS) --gc-sections$/;"	m	language:Make
+LDPATH	boot/Makefile	/^LDPATH		= -lgcc -L \/opt\/EmbedSky\/4.3.3\/lib\/gcc\/arm-none-linux-gnueabi\/4.3.3\/armv4t$/;"	m	language:Make
+LDPATH	fs/Makefile	/^LDPATH		= -lgcc -L \/opt\/EmbedSky\/4.3.3\/lib\/gcc\/arm-none-linux-gnueabi\/4.3.3\/armv4t$/;"	m	language:Make
+LDPATH	kernel/Makefile	/^LDPATH		= -lgcc -L \/opt\/EmbedSky\/4.3.3\/lib\/gcc\/arm-none-linux-gnueabi\/4.3.3\/armv4t$/;"	m	language:Make
+LDPATH	net/Makefile	/^LDPATH		= -lgcc -L \/opt\/EmbedSky\/4.3.3\/lib\/gcc\/arm-none-linux-gnueabi\/4.3.3\/armv4t$/;"	m	language:Make
+LDPATH	sh/Makefile	/^LDPATH		= -lgcc -L \/opt\/EmbedSky\/4.3.3\/lib\/gcc\/arm-none-linux-gnueabi\/4.3.3\/armv4t$/;"	m	language:Make
+LDS	boot/Makefile	/^LDS			= loader.lds$/;"	m	language:Make
+LDS	fs/Makefile	/^LDS			= $(NAME).lds$/;"	m	language:Make
+LDS	kernel/Makefile	/^LDS			= $(NAME).lds$/;"	m	language:Make
+LDS	net/Makefile	/^LDS			= $(NAME).lds$/;"	m	language:Make
+LDS	sh/Makefile	/^LDS			= $(NAME).lds$/;"	m	language:Make
+LECHO	fs/main.c	16;"	d	language:C	file:
+LEFT	lib/string.c	161;"	d	language:C	file:
+LIB	fs/Makefile	/^LIB		= 	..\/lib\/lib.a$/;"	m	language:Make
+LIB	lib/Makefile	/^LIB			= lib.a	$/;"	m	language:Make
+LIB	net/Makefile	/^LIB		= 	..\/lib\/lib.a$/;"	m	language:Make
+LIB	sh/Makefile	/^LIB			= ..\/lib\/lib.a$/;"	m	language:Make
+LOADER_IMG	include/2440/ports.h	16;"	d	language:C++
+LOADER_SIZE	include/2440/ports.h	17;"	d	language:C++
+LOADK_START	include/2440/ports.h	18;"	d	language:C++
+LOCAL	include/sys/types.h	26;"	d	language:C++
+LOCKTIME	include/asm/ioaddr.h	119;"	d	language:C++
+LOW_MEM_SIZE	include/2440/ports.h	89;"	d	language:C++
+LPBUFFER_HEAD	include/ecasey/fs.h	/^}BUFFER_HEAD,*LPBUFFER_HEAD;$/;"	t	language:C++	typeref:struct:tagBUFFER_HEAD
+LPDEV_INODE	include/ecasey/fs.h	/^}DEV_INODE,*LPDEV_INODE;$/;"	t	language:C++	typeref:struct:tagDEV_INODE
+LPDEV_SUPER_BLOCK	include/ecasey/fs.h	/^}DEV_SUPER_BLOCK,*LPDEV_SUPER_BLOCK;$/;"	t	language:C++	typeref:struct:tagDEV_SUPER_BLOCK
+LPDIR_ENTRY	include/ecasey/fs.h	/^}DIR_ENTRY,*LPDIR_ENTRY;$/;"	t	language:C++	typeref:struct:tagDIR_ENTRY
+LPMEM_INODE	include/ecasey/fs.h	/^}MEM_INODE,*LPMEM_INODE;$/;"	t	language:C++	typeref:struct:tagMEM_INODE
+M5D	kernel/drv/lcd/lcd.c	25;"	d	language:C	file:
+MAP_AREA_END	include/2440/ports.h	87;"	d	language:C++
+MAP_AREA_SIZE	include/2440/ports.h	88;"	d	language:C++
+MAP_AREA_START	include/2440/ports.h	86;"	d	language:C++
+MAP_TAB	include/2440/ports.h	125;"	d	language:C++
+MAP_TAB_BLK_NO	kernel/drv/blk/blk_drv.c	258;"	d	language:C	file:
+MAP_TAB_SIZE	include/2440/ports.h	126;"	d	language:C++
+MAX_BAD_BLKS	include/2440/drvs.h	29;"	d	language:C++
+MAX_BUDDY_PAGE_NUM	kernel/kmalloc.c	188;"	d	language:C	file:
+MAX_FILPS	include/ecasey/fs.h	116;"	d	language:C++
+MAX_OPEN_FILES	include/ecasey/fs.h	115;"	d	language:C++
+MAX_SYSCALL	include/ecasey/sysno.h	18;"	d	language:C++
+MAX_TASKS	include/ecasey/pcb.h	56;"	d	language:C++
+MEM_INODE	include/ecasey/fs.h	/^}MEM_INODE,*LPMEM_INODE;$/;"	t	language:C++	typeref:struct:tagMEM_INODE
+MEM_SUPER_BLOCK	include/ecasey/fs.h	/^}MEM_SUPER_BLOCK;$/;"	t	language:C++	typeref:struct:tagMEM_SUPER_BLOCK
+MISCCR	include/asm/ioaddr.h	142;"	d	language:C++
+MISC_INFO	include/2440/ports.h	32;"	d	language:C++
+MISC_INFO_SIZE	include/2440/ports.h	33;"	d	language:C++
+MODE_MASK	include/2440/ports.h	136;"	d	language:C++
+MPLLCON	include/asm/ioaddr.h	120;"	d	language:C++
+MRSRB6	include/asm/ioaddr.h	21;"	d	language:C++
+MRSRB7	include/asm/ioaddr.h	22;"	d	language:C++
+MSG_ERR	include/ecasey/mail.h	28;"	d	language:C++
+MSG_OK	include/ecasey/mail.h	27;"	d	language:C++
+MSLCON	include/asm/ioaddr.h	158;"	d	language:C++
+MT_POST	include/ecasey/mail.h	18;"	d	language:C++
+MT_SEND	include/ecasey/mail.h	17;"	d	language:C++
+Max	include/string.h	17;"	d	language:C++
+Min	include/string.h	18;"	d	language:C++
+NAME	fs/Makefile	/^NAME		= fs$/;"	m	language:Make
+NAME	kernel/Makefile	/^NAME		= kernel$/;"	m	language:Make
+NAME	net/Makefile	/^NAME		= net$/;"	m	language:Make
+NAME	sh/Makefile	/^NAME		= sh$/;"	m	language:Make
+NAME_LEN	include/ecasey/fs.h	107;"	d	language:C++
+NAND_BLK_MASK	kernel/drv/blk/blk_drv.c	399;"	d	language:C	file:
+NAND_BLK_SFT	kernel/drv/blk/blk_drv.c	398;"	d	language:C	file:
+NCB	include/2440/drvs.h	135;"	d	language:C++
+NCNB	include/2440/drvs.h	136;"	d	language:C++
+NEED_EXT_ADDR	boot/nand.c	35;"	d	language:C	file:
+NEED_EXT_ADDR	include/2440/drvs.h	32;"	d	language:C++
+NEXT_BUDDY_START	kernel/kmalloc.c	243;"	d	language:C	file:
+NFCONF_INIT	boot/nand.c	34;"	d	language:C	file:
+NFCONF_INIT	include/2440/drvs.h	31;"	d	language:C++
+NFDATA	boot/nand.c	13;"	d	language:C	file:
+NFDATA	include/2440/2440addr.h	124;"	d	language:C++
+NF_ADDR	boot/nand.c	63;"	d	language:C	file:
+NF_ADDR	include/2440/drvs.h	60;"	d	language:C++
+NF_BLK_ERASE1	boot/nand.c	56;"	d	language:C	file:
+NF_BLK_ERASE1	include/2440/drvs.h	53;"	d	language:C++
+NF_BLK_ERASE2	boot/nand.c	57;"	d	language:C	file:
+NF_BLK_ERASE2	include/2440/drvs.h	54;"	d	language:C++
+NF_CE_OFF	boot/nand.c	97;"	d	language:C	file:
+NF_CE_OFF	include/2440/drvs.h	95;"	d	language:C++
+NF_CE_ON	boot/nand.c	96;"	d	language:C	file:
+NF_CE_ON	include/2440/drvs.h	94;"	d	language:C++
+NF_CLR_RB	boot/nand.c	69;"	d	language:C	file:
+NF_CLR_RB	include/2440/drvs.h	66;"	d	language:C++
+NF_CMD	boot/nand.c	62;"	d	language:C	file:
+NF_CMD	include/2440/drvs.h	59;"	d	language:C++
+NF_DATA_R	boot/nand.c	98;"	d	language:C	file:
+NF_DATA_R	include/2440/drvs.h	96;"	d	language:C++
+NF_ECC	boot/nand.c	99;"	d	language:C	file:
+NF_ECC	include/2440/drvs.h	97;"	d	language:C++
+NF_MECC_Lock	boot/nand.c	82;"	d	language:C	file:
+NF_MECC_Lock	include/2440/drvs.h	80;"	d	language:C++
+NF_MECC_Unlock	boot/nand.c	81;"	d	language:C	file:
+NF_MECC_Unlock	include/2440/drvs.h	79;"	d	language:C++
+NF_NOT_BUSY	include/2440/drvs.h	68;"	d	language:C++
+NF_PAGE_WRITE1	boot/nand.c	46;"	d	language:C	file:
+NF_PAGE_WRITE1	include/2440/drvs.h	43;"	d	language:C++
+NF_PAGE_WRITE2	boot/nand.c	47;"	d	language:C	file:
+NF_PAGE_WRITE2	include/2440/drvs.h	44;"	d	language:C++
+NF_RANDOM_READ1	boot/nand.c	51;"	d	language:C	file:
+NF_RANDOM_READ1	include/2440/drvs.h	48;"	d	language:C++
+NF_RANDOM_READ2	boot/nand.c	52;"	d	language:C	file:
+NF_RANDOM_READ2	include/2440/drvs.h	49;"	d	language:C++
+NF_RANDOM_WRITE	boot/nand.c	49;"	d	language:C	file:
+NF_RANDOM_WRITE	include/2440/drvs.h	46;"	d	language:C++
+NF_RDDATA	boot/nand.c	76;"	d	language:C	file:
+NF_RDDATA	include/2440/drvs.h	74;"	d	language:C++
+NF_RDDATA8	boot/nand.c	77;"	d	language:C	file:
+NF_RDDATA8	include/2440/drvs.h	75;"	d	language:C++
+NF_RDMECC0	boot/nand.c	73;"	d	language:C	file:
+NF_RDMECC0	include/2440/drvs.h	71;"	d	language:C++
+NF_RDMECC1	boot/nand.c	74;"	d	language:C	file:
+NF_RDMECC1	include/2440/drvs.h	72;"	d	language:C++
+NF_RDSECC	boot/nand.c	75;"	d	language:C	file:
+NF_RDSECC	include/2440/drvs.h	73;"	d	language:C++
+NF_READ1	boot/nand.c	37;"	d	language:C	file:
+NF_READ1	include/2440/drvs.h	34;"	d	language:C++
+NF_READ2	boot/nand.c	38;"	d	language:C	file:
+NF_READ2	include/2440/drvs.h	35;"	d	language:C++
+NF_READ_CPY_BACK1	boot/nand.c	40;"	d	language:C	file:
+NF_READ_CPY_BACK1	include/2440/drvs.h	37;"	d	language:C++
+NF_READ_CPY_BACK2	boot/nand.c	41;"	d	language:C	file:
+NF_READ_CPY_BACK2	include/2440/drvs.h	38;"	d	language:C++
+NF_READ_ID	boot/nand.c	43;"	d	language:C	file:
+NF_READ_ID	include/2440/drvs.h	40;"	d	language:C++
+NF_READ_STATUS	boot/nand.c	54;"	d	language:C	file:
+NF_READ_STATUS	include/2440/drvs.h	51;"	d	language:C++
+NF_RESET	boot/nand.c	44;"	d	language:C	file:
+NF_RESET	include/2440/drvs.h	41;"	d	language:C++
+NF_RSTECC	boot/nand.c	72;"	d	language:C	file:
+NF_RSTECC	include/2440/drvs.h	70;"	d	language:C++
+NF_SECC_Lock	boot/nand.c	84;"	d	language:C	file:
+NF_SECC_Lock	include/2440/drvs.h	82;"	d	language:C++
+NF_SECC_Unlock	boot/nand.c	83;"	d	language:C	file:
+NF_SECC_Unlock	include/2440/drvs.h	81;"	d	language:C++
+NF_WAITRB	boot/nand.c	79;"	d	language:C	file:
+NF_WAITRB	include/2440/drvs.h	77;"	d	language:C++
+NF_WAIT_RB	boot/nand.c	70;"	d	language:C	file:
+NF_WAIT_RB	include/2440/drvs.h	67;"	d	language:C++
+NF_WRDATA	boot/nand.c	64;"	d	language:C	file:
+NF_WRDATA	include/2440/drvs.h	61;"	d	language:C++
+NF_nFCE_H	boot/nand.c	67;"	d	language:C	file:
+NF_nFCE_H	include/2440/drvs.h	64;"	d	language:C++
+NF_nFCE_L	boot/nand.c	66;"	d	language:C	file:
+NF_nFCE_L	include/2440/drvs.h	63;"	d	language:C++
+NORMAL_SEG_ATTR	include/2440/drvs.h	177;"	d	language:C++
+NO_FIQ	include/2440/ports.h	140;"	d	language:C++
+NO_INTR	include/2440/ports.h	137;"	d	language:C++
+NO_IRQ	include/2440/ports.h	139;"	d	language:C++
+NO_TASK	include/ecasey/mail.h	25;"	d	language:C++
+NR_ARGC	include/ecasey/exec.h	43;"	d	language:C++
+NR_BLK_OBJS	include/ecasey/fs.h	154;"	d	language:C++
+NR_BUFFERS	fs/buffer.c	/^i32 NR_BUFFERS = 0;$/;"	v	language:C
+NR_HASH	fs/buffer.c	15;"	d	language:C	file:
+NR_IMAP_BLKS	include/ecasey/fs.h	80;"	d	language:C++
+NR_INODES	include/ecasey/fs.h	146;"	d	language:C++
+NR_INODE_BUF	include/ecasey/fs.h	172;"	d	language:C++
+NR_OBJS	tools/main.c	35;"	d	language:C	file:
+NR_RAMDSK_BMAP	fs/ramdisk.c	15;"	d	language:C	file:
+NR_RAMDSK_IMAP	fs/ramdisk.c	14;"	d	language:C	file:
+NR_RAMDSK_INODES	fs/ramdisk.c	12;"	d	language:C	file:
+NR_RAMDSK_ZONES	fs/ramdisk.c	13;"	d	language:C	file:
+NR_SBLKS	include/ecasey/fs.h	82;"	d	language:C++
+NR_SRC_SIZE	include/ecasey/exec.h	44;"	d	language:C++
+NR_TASKS	include/ecasey/fs.h	174;"	d	language:C++
+NR_TASKS	kernel/task.c	/^u32 NR_TASKS   = 0;$/;"	v	language:C
+NR_ZMAP_BLKS	include/ecasey/fs.h	81;"	d	language:C++
+NR_ZONES	include/ecasey/fs.h	145;"	d	language:C++
+NULL	include/string.h	12;"	d	language:C++
+NULL	include/string.h	14;"	d	language:C++
+O2BCD	include/2440/drvs.h	236;"	d	language:C++
+OBJS	boot/Makefile	/^OBJS		= start.o loader.o nand.o led.o loaderk.o high_vect.o$/;"	m	language:Make
+OBJS	fs/Makefile	/^OBJS		= $(AOBJS) $(COBJS) $(LIB)$/;"	m	language:Make
+OBJS	kernel/Makefile	/^OBJS		= $(AOBJS) $(COBJS) $(KLIB)$/;"	m	language:Make
+OBJS	lib/Makefile	/^OBJS		= string.o assert.o mail.o libc.o $/;"	m	language:Make
+OBJS	net/Makefile	/^OBJS		= $(AOBJS) $(COBJS) $(LIB)$/;"	m	language:Make
+OBJS	sh/Makefile	/^OBJS		= $(AOBJS) $(COBJS) $(LIB)$/;"	m	language:Make
+OCPY	boot/Makefile	/^OCPY		= arm-linux-objcopy$/;"	m	language:Make
+OCPY	fs/Makefile	/^OCPY		= arm-linux-objcopy$/;"	m	language:Make
+OCPY	kernel/Makefile	/^OCPY		= arm-linux-objcopy$/;"	m	language:Make
+OCPY	net/Makefile	/^OCPY		= arm-linux-objcopy$/;"	m	language:Make
+OCPY	sh/Makefile	/^OCPY		= arm-linux-objcopy$/;"	m	language:Make
+OCPYF	boot/Makefile	/^OCPYF		= -O binary -S$/;"	m	language:Make
+OCPYF	fs/Makefile	/^OCPYF		= -O binary -S$/;"	m	language:Make
+OCPYF	kernel/Makefile	/^OCPYF		= -O binary -S$/;"	m	language:Make
+OCPYF	net/Makefile	/^OCPYF		= -O binary -S$/;"	m	language:Make
+OCPYF	sh/Makefile	/^OCPYF		= -O binary -S$/;"	m	language:Make
+OUT_BLKS	fs/buffer.c	16;"	d	language:C	file:
+O_ACCMODE	include/fcntl.h	4;"	d	language:C++
+O_APPEND	include/fcntl.h	12;"	d	language:C++
+O_CREAT	include/fcntl.h	8;"	d	language:C++
+O_EXCL	include/fcntl.h	9;"	d	language:C++
+O_NDELAY	include/fcntl.h	14;"	d	language:C++
+O_NOCTTY	include/fcntl.h	10;"	d	language:C++
+O_NONBLOCK	include/fcntl.h	13;"	d	language:C++
+O_RDONLY	include/fcntl.h	5;"	d	language:C++
+O_RDWR	include/fcntl.h	7;"	d	language:C++
+O_TRUNC	include/fcntl.h	11;"	d	language:C++
+O_WRONLY	include/fcntl.h	6;"	d	language:C++
+PAGES_PER_BLK	boot/nand.c	31;"	d	language:C	file:
+PAGES_PER_BLK	include/2440/drvs.h	27;"	d	language:C++
+PAGES_PER_BLK	tools/a/main.c	14;"	d	language:C	file:
+PAGES_PER_BLK	tools/main.c	12;"	d	language:C	file:
+PAGE_AVAILABLE	kernel/kmalloc.c	172;"	d	language:C	file:
+PAGE_BUDDY_BUSY	kernel/kmalloc.c	175;"	d	language:C	file:
+PAGE_DIRTY	kernel/kmalloc.c	173;"	d	language:C	file:
+PAGE_IN_CACHE	kernel/kmalloc.c	176;"	d	language:C	file:
+PAGE_MASK	kernel/kmalloc.c	152;"	d	language:C	file:
+PAGE_NUM_FOR_MAX_BUDDY	kernel/kmalloc.c	190;"	d	language:C	file:
+PAGE_PROTECT	kernel/kmalloc.c	174;"	d	language:C	file:
+PAGE_SHIFT	kernel/kmalloc.c	150;"	d	language:C	file:
+PAGE_SIZE	kernel/kmalloc.c	151;"	d	language:C	file:
+PAGE_STRUCTS_END	include/2440/ports.h	98;"	d	language:C++
+PAGE_STRUCTS_NR	include/2440/ports.h	93;"	d	language:C++
+PAGE_STRUCTS_SIZE	include/2440/ports.h	97;"	d	language:C++
+PAGE_STRUCTS_START	include/2440/ports.h	96;"	d	language:C++
+PAGE_STRUCT_SIZE	include/2440/ports.h	92;"	d	language:C++
+PAGE_TBL_P	include/2440/ports.h	43;"	d	language:C++
+PAGE_TBL_P_SIZE	include/2440/ports.h	44;"	d	language:C++
+PAGE_TBL_V	include/2440/ports.h	46;"	d	language:C++
+PAGE_TBL_V_SIZE	include/2440/ports.h	47;"	d	language:C++
+PALETTE	include/2440/2440addr.h	114;"	d	language:C++
+PCB	include/ecasey/pcb.h	/^}PCB,TASK;$/;"	t	language:C++	typeref:struct:pcb_st
+PCLK	include/ecasey/kernel.h	12;"	d	language:C++
+PLCD_BUF	kernel/drv/lcd/lcd.c	/^typedef     u16 (*PLCD_BUF)[LCD_XSIZE];$/;"	t	language:C	file:
+PLUS	lib/string.c	159;"	d	language:C	file:
+PL_MAX	include/ecasey/pcb.h	47;"	d	language:C++
+PORTS_MAP_START	include/2440/ports.h	75;"	d	language:C++
+PREV_BUDDY_START	kernel/kmalloc.c	244;"	d	language:C	file:
+PRIORITY	include/asm/ioaddr.h	130;"	d	language:C++
+PROMOT	include/ecasey/exec.h	46;"	d	language:C++
+PRSCVL	include/2440/drvs.h	244;"	d	language:C++
+PWD_LEN	include/ecasey/fs.h	130;"	d	language:C++
+RAMDISK_IMG_BLK_NO	include/2440/ports.h	116;"	d	language:C++
+RAMDSK_BUFFER	include/2440/ports.h	113;"	d	language:C++
+RAMDSK_SIZE	include/2440/ports.h	114;"	d	language:C++
+RAM_SIZE	include/2440/ports.h	36;"	d	language:C++
+RAM_START	include/2440/ports.h	35;"	d	language:C++
+READ	include/ecasey/fs.h	159;"	d	language:C++
+READ	kernel/ipc/kmail.c	8;"	d	language:C	file:
+RECV_BUF	include/2440/ports.h	69;"	d	language:C++
+REFEN	include/asm/ioaddr.h	98;"	d	language:C++
+REFRESH	include/asm/ioaddr.h	19;"	d	language:C++
+REF_CNTR	include/asm/ioaddr.h	103;"	d	language:C++
+REGS_FRAME	include/ecasey/pcb.h	/^}REGS_FRAME;$/;"	t	language:C++	typeref:struct:s_regs_frame
+RO	include/sys/types.h	28;"	d	language:C++
+ROOT_DEV	include/ecasey/fs.h	166;"	d	language:C++
+ROOT_IND_NR	include/ecasey/fs.h	129;"	d	language:C++
+RSV_PL	include/2440/drvs.h	125;"	d	language:C++
+SCKE_EN	include/asm/ioaddr.h	107;"	d	language:C++
+SCLK_EN	include/asm/ioaddr.h	108;"	d	language:C++
+SCR_XSIZE	include/2440/drvs.h	226;"	d	language:C++
+SCR_YSIZE	include/2440/drvs.h	227;"	d	language:C++
+SEND_BUF	include/2440/ports.h	68;"	d	language:C++
+SEND_BUF_SIZE	include/ecasey/pcb.h	31;"	d	language:C++
+SH_IMG	include/2440/ports.h	29;"	d	language:C++
+SH_IMG_SIZE	include/2440/ports.h	30;"	d	language:C++
+SIGN	lib/string.c	158;"	d	language:C	file:
+SMALL	lib/string.c	163;"	d	language:C	file:
+SPACE	lib/string.c	160;"	d	language:C	file:
+SPECIAL	lib/string.c	162;"	d	language:C	file:
+SP_BYTES_PER_PAGE	boot/nand.c	30;"	d	language:C	file:
+SP_BYTES_PER_PAGE	include/2440/drvs.h	26;"	d	language:C++
+SP_BYTES_PER_PAGE	tools/a/main.c	13;"	d	language:C	file:
+SP_BYTES_PER_PAGE	tools/main.c	11;"	d	language:C	file:
+SRCPND	include/asm/ioaddr.h	127;"	d	language:C++
+STACK_AREA	include/2440/ports.h	72;"	d	language:C++
+STATUS_ERROR	boot/nand.c	60;"	d	language:C	file:
+STATUS_ERROR	include/2440/drvs.h	57;"	d	language:C++
+STATUS_READY	boot/nand.c	59;"	d	language:C	file:
+STATUS_READY	include/2440/drvs.h	56;"	d	language:C++
+SUSSRCPND	include/asm/ioaddr.h	133;"	d	language:C++
+SVC_MODE	include/2440/ports.h	132;"	d	language:C++
+SYS_CALL	kernel/swi.c	/^typedef u32 (*SYS_CALL) (u32,u32,u32,u32);$/;"	t	language:C	file:
+SYS_GETADC	include/ecasey/sysno.h	12;"	d	language:C++
+SYS_GETCHS	include/ecasey/sysno.h	15;"	d	language:C++
+SYS_GETPOS	include/ecasey/sysno.h	13;"	d	language:C++
+SYS_GETTIME	include/ecasey/sysno.h	10;"	d	language:C++
+SYS_GET_TICK	include/ecasey/sysno.h	6;"	d	language:C++
+SYS_LCD_WRITE	include/ecasey/sysno.h	8;"	d	language:C++
+SYS_MODE	include/2440/ports.h	135;"	d	language:C++
+SYS_PAUSE	include/ecasey/sysno.h	9;"	d	language:C++
+SYS_PL	include/2440/drvs.h	126;"	d	language:C++
+SYS_RW_NAND	include/ecasey/sysno.h	14;"	d	language:C++
+SYS_SETTIME	include/ecasey/sysno.h	11;"	d	language:C++
+SYS_SYNC_TL	include/ecasey/sysno.h	16;"	d	language:C++
+SYS_UART_WRITE	include/ecasey/sysno.h	7;"	d	language:C++
+S_IFBLK	include/sys/stat.h	12;"	d	language:C++
+S_IFCHR	include/sys/stat.h	14;"	d	language:C++
+S_IFDIR	include/sys/stat.h	13;"	d	language:C++
+S_IFIFO	include/sys/stat.h	15;"	d	language:C++
+S_IFMT	include/sys/stat.h	10;"	d	language:C++
+S_IFREG	include/sys/stat.h	11;"	d	language:C++
+S_IRGRP	include/sys/stat.h	34;"	d	language:C++
+S_IROTH	include/sys/stat.h	39;"	d	language:C++
+S_IRUSR	include/sys/stat.h	29;"	d	language:C++
+S_IRWXG	include/sys/stat.h	33;"	d	language:C++
+S_IRWXO	include/sys/stat.h	38;"	d	language:C++
+S_IRWXU	include/sys/stat.h	28;"	d	language:C++
+S_ISBLK	include/sys/stat.h	25;"	d	language:C++
+S_ISCHR	include/sys/stat.h	24;"	d	language:C++
+S_ISDIR	include/sys/stat.h	23;"	d	language:C++
+S_ISFIFO	include/sys/stat.h	26;"	d	language:C++
+S_ISGID	include/sys/stat.h	19;"	d	language:C++
+S_ISREG	include/sys/stat.h	22;"	d	language:C++
+S_ISUID	include/sys/stat.h	18;"	d	language:C++
+S_ISVTX	include/sys/stat.h	20;"	d	language:C++
+S_IWGRP	include/sys/stat.h	35;"	d	language:C++
+S_IWOTH	include/sys/stat.h	40;"	d	language:C++
+S_IWUSR	include/sys/stat.h	30;"	d	language:C++
+S_IXGRP	include/sys/stat.h	36;"	d	language:C++
+S_IXOTH	include/sys/stat.h	41;"	d	language:C++
+S_IXUSR	include/sys/stat.h	31;"	d	language:C++
+TACLS	boot/nand.c	102;"	d	language:C	file:
+TACLS	include/2440/drvs.h	100;"	d	language:C++
+TASK	include/ecasey/pcb.h	/^}PCB,TASK;$/;"	t	language:C++	typeref:struct:pcb_st
+TASK_ANY	include/ecasey/mail.h	24;"	d	language:C++
+TASK_FS	include/ecasey/mail.h	21;"	d	language:C++
+TASK_SH	include/ecasey/mail.h	22;"	d	language:C++
+TASK_SYS	include/ecasey/mail.h	20;"	d	language:C++
+TL_BUFFER	include/2440/ports.h	104;"	d	language:C++
+TL_BUF_SIZE	include/2440/ports.h	105;"	d	language:C++
+TL_CACHE_END	include/2440/ports.h	122;"	d	language:C++
+TL_CACHE_HEAD	include/2440/ports.h	121;"	d	language:C++
+TM	include/asm/ioaddr.h	113;"	d	language:C++
+TREFMD	include/asm/ioaddr.h	99;"	d	language:C++
+TS_HANG	include/ecasey/pcb.h	54;"	d	language:C++
+TS_MASK	include/ecasey/pcb.h	48;"	d	language:C++
+TS_PND	include/ecasey/pcb.h	51;"	d	language:C++
+TS_RECV	include/ecasey/pcb.h	53;"	d	language:C++
+TS_RUN	include/ecasey/pcb.h	50;"	d	language:C++
+TS_SEND	include/ecasey/pcb.h	52;"	d	language:C++
+TTB0_COARSE	include/2440/drvs.h	112;"	d	language:C++
+TTB0_FAULT	include/2440/drvs.h	111;"	d	language:C++
+TTB0_FINE	include/2440/drvs.h	114;"	d	language:C++
+TTB0_SEG	include/2440/drvs.h	113;"	d	language:C++
+TTB1_FAULT	include/2440/drvs.h	117;"	d	language:C++
+TTB1_LPG	include/2440/drvs.h	118;"	d	language:C++
+TTB1_SPG	include/2440/drvs.h	119;"	d	language:C++
+TTB1_TPG	include/2440/drvs.h	120;"	d	language:C++
+TTB_BASE	include/2440/ports.h	40;"	d	language:C++
+TTB_EMPTY	kernel/task.c	49;"	d	language:C	file:
+TTB_IS_CPG_TBL	kernel/task.c	46;"	d	language:C	file:
+TTB_IS_ERR	kernel/task.c	45;"	d	language:C	file:
+TTB_IS_FPG_TBL	kernel/task.c	48;"	d	language:C	file:
+TTB_IS_SEG_TBL	kernel/task.c	47;"	d	language:C	file:
+TTB_SIZE	include/2440/ports.h	41;"	d	language:C++
+TWRPH0	boot/nand.c	103;"	d	language:C	file:
+TWRPH0	include/2440/drvs.h	101;"	d	language:C++
+TWRPH1	boot/nand.c	104;"	d	language:C	file:
+TWRPH1	include/2440/drvs.h	102;"	d	language:C++
+Tchr	include/asm/ioaddr.h	102;"	d	language:C++
+Trp	include/asm/ioaddr.h	100;"	d	language:C++
+Tsrc	include/asm/ioaddr.h	101;"	d	language:C++
+UID	include/ecasey/fs.h	169;"	d	language:C++
+UND_MODE	include/2440/ports.h	134;"	d	language:C++
+UPLLCON	include/asm/ioaddr.h	121;"	d	language:C++
+USBDMA	include/2440/2440addr.h	22;"	d	language:C++
+USBDMA_DEMAND	include/2440/2440addr.h	23;"	d	language:C++
+USR_ENTRY	include/2440/ports.h	63;"	d	language:C++
+USR_FS_BUFFER	include/2440/ports.h	111;"	d	language:C++
+USR_MODE	include/2440/ports.h	129;"	d	language:C++
+USR_PL	include/2440/drvs.h	124;"	d	language:C++
+USR_RAMDSK_BUFFER	include/2440/ports.h	115;"	d	language:C++
+USR_SP	include/2440/ports.h	64;"	d	language:C++
+USR_SP_SIZE	include/2440/ports.h	65;"	d	language:C++
+VAR	include/sys/types.h	29;"	d	language:C++
+VECTOR_TBL	include/2440/ports.h	78;"	d	language:C++
+VECTOR_TBL_SIZE	include/2440/ports.h	79;"	d	language:C++
+VECT_IMG	include/2440/ports.h	20;"	d	language:C++
+VECT_PAGE	include/2440/ports.h	60;"	d	language:C++
+VECT_PAGE_TBL	include/2440/ports.h	59;"	d	language:C++
+VECT_SIZE	include/2440/ports.h	21;"	d	language:C++
+VMA_AREA	include/2440/ports.h	73;"	d	language:C++
+WBL	include/asm/ioaddr.h	112;"	d	language:C++
+WRITE	include/ecasey/fs.h	158;"	d	language:C++
+WRITE	kernel/ipc/kmail.c	9;"	d	language:C	file:
+WTCNT	include/asm/ioaddr.h	163;"	d	language:C++
+WTCON	include/asm/ioaddr.h	161;"	d	language:C++
+WTDAT	include/asm/ioaddr.h	162;"	d	language:C++
+ZEROPAD	lib/string.c	157;"	d	language:C	file:
+_INTSIZEOF	include/stdarg.h	10;"	d	language:C++
+_IO_ADDR_START	include/2440/2440addr.h	26;"	d	language:C++
+_ISR_STARTADDRESS	include/2440/ports.h	83;"	d	language:C++
+_MEM_END	kernel/kmalloc.c	147;"	d	language:C	file:
+_MEM_START	kernel/kmalloc.c	148;"	d	language:C	file:
+_OLD_OFFSET	include/2440/2440addr.h	27;"	d	language:C++
+__2440ADDR_H__	include/2440/2440addr.h	8;"	d	language:C++
+__ARG_H__	include/stdarg.h	7;"	d	language:C++
+__ASSERT_H__	include/assert.h	8;"	d	language:C++
+__CACHE_H__	include/2440/cache.h	2;"	d	language:C++
+__DEBUG_ELF__	fs/exec.c	11;"	d	language:C	file:
+__DEBUG__	include/assert.h	11;"	d	language:C++
+__DRVS_H__	include/2440/drvs.h	2;"	d	language:C++
+__ERRNO_H__	include/errno.h	2;"	d	language:C++
+__EXEC_H__	include/ecasey/exec.h	2;"	d	language:C++
+__FCNTL_H__	include/fcntl.h	2;"	d	language:C++
+__FS_H__	include/ecasey/fs.h	2;"	d	language:C++
+__IO_H__	include/asm/ioaddr.h	2;"	d	language:C++
+__KERNEL_H__	include/ecasey/kernel.h	9;"	d	language:C++
+__MAIL_H__	include/ecasey/mail.h	3;"	d	language:C++
+__PCB_H__	include/ecasey/pcb.h	7;"	d	language:C++
+__PORTS_H__	include/2440/ports.h	6;"	d	language:C++
+__RTC_H__	include/ecasey/rtc.h	2;"	d	language:C++
+__STDIO_H__	include/stdio.h	2;"	d	language:C++
+__STRING_H__	include/string.h	7;"	d	language:C++
+__SYSNO__	include/ecasey/sysno.h	2;"	d	language:C++
+__SYS_STAT_H__	include/sys/stat.h	2;"	d	language:C++
+__TYPES_H__	include/sys/types.h	2;"	d	language:C++
+__VAR__	include/sys/types.h	30;"	d	language:C++
+__VGA	kernel/drv/lcd/fontlib.c	/^RO u8 __VGA[] = {$/;"	v	language:C
+__cli	include/ecasey/kernel.h	27;"	d	language:C++
+__do_timer0	kernel/sched.c	/^void __do_timer0 (void)$/;"	f	language:C	signature:(void)
+__list_add	kernel/kmalloc.c	/^LOCAL INLINE void __list_add(struct list_head *new_lst,$/;"	f	language:C	signature:(struct list_head *new_lst, struct list_head *prev, struct list_head *next)
+__list_del	kernel/kmalloc.c	/^LOCAL INLINE void __list_del(struct list_head * prev, struct list_head * next)$/;"	f	language:C	signature:(struct list_head * prev, struct list_head * next)
+__sti	include/ecasey/kernel.h	17;"	d	language:C++
+__ticks	kernel/swi.c	/^u32 __ticks = 0;$/;"	v	language:C
+_bmap	fs/inode.c	/^LOCAL u32 _bmap (MEM_INODE *m_inode,u32 file_blk_no,u8 *fcrt) $/;"	f	language:C	signature:(MEM_INODE *m_inode,u32 file_blk_no,u8 *fcrt)
+_cw_st	include/ecasey/fs.h	/^typedef struct _cw_st {$/;"	s	language:C++
+_data_abt	boot/high_vect.S	/^_data_abt:                              \/* date abort (offset = 16) *\/$/;"	l	language:Asm
+_data_abt	boot/start.S	/^_data_abt:                              \/* date abort (offset = 16) *\/$/;"	l	language:Asm
+_do_data_abt	kernel/page/dabt.S	/^_do_data_abt:$/;"	l	language:Asm
+_do_fiq	kernel/start.S	/^_do_fiq:$/;"	l	language:Asm
+_do_irq	kernel/start.S	/^_do_irq:$/;"	l	language:Asm
+_do_prefetch_abt	kernel/start.S	/^_do_prefetch_abt:$/;"	l	language:Asm
+_do_reserved	kernel/start.S	/^_do_reserved:$/;"	l	language:Asm
+_do_sys_call	kernel/start.S	/^_do_sys_call:                           \/* system call *\/$/;"	l	language:Asm
+_do_undef_instruction	kernel/start.S	/^_do_undef_instruction:$/;"	l	language:Asm
+_endload	boot/start.S	/^_endload:$/;"	l	language:Asm
+_fetch_abt	boot/high_vect.S	/^_fetch_abt:                             \/* fectch abort (offset = 12) *\/$/;"	l	language:Asm
+_fetch_abt	boot/start.S	/^_fetch_abt:                             \/* fectch abort (offset = 12) *\/$/;"	l	language:Asm
+_file_st	include/ecasey/fs.h	/^typedef struct _file_st {$/;"	s	language:C++
+_fiq	boot/high_vect.S	/^_fiq:                                   \/* fiq (offset = 28) *\/$/;"	l	language:Asm
+_fiq	boot/start.S	/^_fiq:                                   \/* fiq (offset = 28) *\/$/;"	l	language:Asm
+_get_ticks	lib/libc.c	/^LOCAL i32 _get_ticks (void)$/;"	f	language:C	signature:(void)
+_irq	boot/high_vect.S	/^_irq:                                   \/* irq (offset = 24) *\/$/;"	l	language:Asm
+_irq	boot/start.S	/^_irq:                                   \/* irq (offset = 24) *\/$/;"	l	language:Asm
+_lcd_write	lib/libc.c	/^LOCAL i32 _lcd_write (void *addr,u32 size)$/;"	f	language:C	signature:(void *addr,u32 size)
+_mail_st	include/ecasey/mail.h	/^typedef struct _mail_st {$/;"	s	language:C++
+_map_tab_st	kernel/drv/blk/blk_drv.c	/^typedef struct _map_tab_st {$/;"	s	language:C	file:
+_msg	include/ecasey/mail.h	/^    union _msg {                    \/* message \/ return *\/$/;"	u	language:C++	struct:_mail_st
+_put_sblk	fs/super.c	/^void _put_sblk (u8 root,u16 dev_no) $/;"	f	language:C	signature:(u8 root,u16 dev_no)
+_reserved	boot/high_vect.S	/^_reserved:                              \/* reserved for sys (offset = 20) *\/$/;"	l	language:Asm
+_reserved	boot/start.S	/^_reserved:                              \/* reserved for sys (offset = 20) *\/$/;"	l	language:Asm
+_reset	boot/high_vect.S	/^_reset:$/;"	l	language:Asm
+_software_intr	boot/high_vect.S	/^_software_intr:                         \/* software interrupt (offset = 8) *\/$/;"	l	language:Asm
+_software_intr	boot/start.S	/^_software_intr:                         \/* software interrupt (offset = 8) *\/$/;"	l	language:Asm
+_start	boot/start.S	/^_start:$/;"	l	language:Asm
+_start	fs/start.S	/^_start:$/;"	l	language:Asm
+_start	kernel/start.S	/^_start:$/;"	l	language:Asm
+_start	net/start.S	/^_start:$/;"	l	language:Asm
+_start	sh/start.S	/^_start:$/;"	l	language:Asm
+_systime	include/ecasey/rtc.h	/^typedef struct _systime {$/;"	s	language:C++
+_tl_cache_st	kernel/drv/blk/blk_drv.c	/^typedef struct _tl_cache_st {           \/* translation layer cache structure *\/$/;"	s	language:C	file:
+_uart_write	lib/libc.c	/^LOCAL i32 _uart_write (void *addr,u32 size)$/;"	f	language:C	signature:(void *addr,u32 size)
+_undef_intstruct	boot/high_vect.S	/^_undef_intstruct:                       \/* undefined intruction (offset = 4) *\/$/;"	l	language:Asm
+_undef_intstruct	boot/start.S	/^_undef_intstruct:                       \/* undefined intruction (offset = 4) *\/$/;"	l	language:Asm
+_vstart	boot/high_vect.S	/^_vstart:$/;"	l	language:Asm
+adc_prc	kernel/drv/touchpl.c	/^LOCAL void adc_prc (void)$/;"	f	language:C	signature:(void)
+adc_touch_prc	kernel/drv/touchpl.c	/^void adc_touch_prc (void)$/;"	f	language:C	signature:(void)
+add_entry	fs/namei.c	/^BUFFER_HEAD *add_entry (MEM_INODE *m_dir,i8 *entry_name,$/;"	f	language:C	signature:(MEM_INODE *m_dir,i8 *entry_name, u32 name_len,DIR_ENTRY **bh_de_ptr)
+add_hash	fs/buffer.c	/^LOCAL BUFFER_HEAD* add_hash (BUFFER_HEAD *p) $/;"	f	language:C	signature:(BUFFER_HEAD *p)
+align_fault_on	include/2440/cache.h	108;"	d	language:C++
+alloc_pages	kernel/kmalloc.c	/^struct page *alloc_pages(u32 flag,i32 order)$/;"	f	language:C	signature:(u32 flag,i32 order)
+argv	fs/main.c	/^LOCAL i8 argv[NR_ARGC][NR_SRC_SIZE];$/;"	v	language:C
+assert	include/assert.h	18;"	d	language:C++
+assert	include/assert.h	24;"	d	language:C++
+assert_fail	lib/assert.c	/^void assert_fail (const char* expression,$/;"	f	language:C	signature:(const char* expression, const char* local_file, const char* base_file, unsigned long line_nr )
+atime	kernel/drv/blk/blk_drv.c	/^    u32     atime;                      \/* latest access time *\/$/;"	m	language:C	struct:_tl_cache_st	file:
+atoi	lib/string.c	/^int atoi (const char *src) $/;"	f	language:C	signature:(const char *src)
+auto_xy	kernel/drv/touchpl.c	14;"	d	language:C	file:
+bad_blk	kernel/drv/blk/blk_drv.c	/^    i16     bad_blk[MAX_BAD_BLKS];$/;"	m	language:C	struct:_map_tab_st	file:
+bad_cnt	kernel/drv/blk/blk_drv.c	/^    i16     bad_cnt;$/;"	m	language:C	struct:_map_tab_st	file:
+bad_swi	kernel/swi.c	/^void bad_swi (void)$/;"	f	language:C	signature:(void)
+bh_blk_nr	include/ecasey/fs.h	/^    u32         bh_blk_nr;                  $/;"	m	language:C++	struct:tagBUFFER_HEAD
+bh_buf	include/ecasey/fs.h	/^    u8*         bh_buf ;                $/;"	m	language:C++	struct:tagBUFFER_HEAD
+bh_cnt	include/ecasey/fs.h	/^    u8          bh_cnt;                     $/;"	m	language:C++	struct:tagBUFFER_HEAD
+bh_dev	include/ecasey/fs.h	/^    u16         bh_dev;                     $/;"	m	language:C++	struct:tagBUFFER_HEAD
+bh_dirt	include/ecasey/fs.h	/^    u8          bh_dirt;                    \/* wb *\/$/;"	m	language:C++	struct:tagBUFFER_HEAD
+bh_hashed	include/ecasey/fs.h	/^	u8			bh_hashed;$/;"	m	language:C++	struct:tagBUFFER_HEAD
+bh_locked	include/ecasey/fs.h	/^    u8          bh_locked;                  \/* writer lock it down *\/$/;"	m	language:C++	struct:tagBUFFER_HEAD
+bh_valid	include/ecasey/fs.h	/^    u8          bh_valid;                   $/;"	m	language:C++	struct:tagBUFFER_HEAD
+blk_drv_init	kernel/drv/blk/blk_drv.c	/^i32 blk_drv_init (void)$/;"	f	language:C	signature:(void)
+blk_rw	tools/main.c	/^LOCAL i32 blk_rw (u8 rw,u32 blk_nr,u32 blks_cnt,void *buf)$/;"	f	language:C	signature:(u8 rw,u32 blk_nr,u32 blks_cnt,void *buf)
+blkno	kernel/drv/blk/blk_drv.c	/^    i16     blkno;                      \/* physical blk nr *\/$/;"	m	language:C	struct:_tl_cache_st	file:
+bmap	fs/inode.c	/^u32 bmap (MEM_INODE *m_inode,u32 file_blk_no) $/;"	f	language:C	signature:(MEM_INODE *m_inode,u32 file_blk_no)
+bool	include/sys/types.h	/^typedef int                 bool;$/;"	t	language:C++
+bread	fs/buffer.c	/^BUFFER_HEAD *bread (u16 dev_no,u32 blk_no) $/;"	f	language:C	signature:(u16 dev_no,u32 blk_no)
+breada	fs/buffer.c	/^BUFFER_HEAD* breada (u16 dev_no,u32 blk_no ,...) $/;"	f	language:C	signature:(u16 dev_no,u32 blk_no ,...)
+brelse	fs/buffer.c	/^void brelse (BUFFER_HEAD *bh_free)$/;"	f	language:C	signature:(BUFFER_HEAD *bh_free)
+bss_end	fs/start.S	/^bss_end:        .word   _bss_end$/;"	l	language:Asm
+bss_end	kernel/start.S	/^bss_end:        .word   _bss_end$/;"	l	language:Asm
+bss_end	net/start.S	/^bss_end:        .word   _bss_end$/;"	l	language:Asm
+bss_start	fs/start.S	/^bss_start:      .word   _bss_start$/;"	l	language:Asm
+bss_start	kernel/start.S	/^bss_start:      .word   _bss_start$/;"	l	language:Asm
+bss_start	net/start.S	/^bss_start:      .word   _bss_start$/;"	l	language:Asm
+buf	fs/main.c	/^LOCAL i8 buf[NR_ARGC * NR_SRC_SIZE] = {0};$/;"	v	language:C
+buf	kernel/drv/blk/blk_drv.c	/^    i8      *buf;                       \/* buffer *\/$/;"	m	language:C	struct:_tl_cache_st	file:
+cachep	kernel/kmalloc.c	/^	struct  kmem_cache *cachep;$/;"	m	language:C	struct:page	typeref:struct:page::kmem_cache	file:
+change_ttb_base	kernel/task.c	/^void change_ttb_base (u32 ttb_base)$/;"	f	language:C	signature:(u32 ttb_base)
+chs_buf	kernel/drv/chr/tty.c	/^u8    chs_buf [CHS_BUF_SIZE];$/;"	v	language:C
+chs_cnt	kernel/drv/chr/tty.c	/^u32   chs_cnt = 0;$/;"	v	language:C
+clear_bss	fs/start.S	/^clear_bss:$/;"	l	language:Asm
+clear_bss	kernel/start.S	/^clear_bss:$/;"	l	language:Asm
+clear_bss	net/start.S	/^clear_bss:$/;"	l	language:Asm
+clear_iblks	fs/inode.c	/^void clear_iblks (MEM_INODE *m_inode) $/;"	f	language:C	signature:(MEM_INODE *m_inode)
+clr_invalidate_dcache	include/2440/cache.h	166;"	d	language:C++
+clrb	fs/bmap.c	/^LOCAL INLINE u8 clrb (u8 *addr,u32 bitno) $/;"	f	language:C	signature:(u8 *addr,u32 bitno)
+container_of	kernel/kmalloc.c	136;"	d	language:C	file:
+copy_nand_to_sdram	boot/nand.c	/^u32 copy_nand_to_sdram (u32 sdram_addr,u32 nand_addr,u32 img_size)$/;"	f	language:C	signature:(u32 sdram_addr,u32 nand_addr,u32 img_size)
+copy_nand_to_sdram	kernel/drv/blk/blk_drv.c	/^u32 copy_nand_to_sdram (u32 sdram_addr,u32 nand_addr,u32 img_size)$/;"	f	language:C	signature:(u32 sdram_addr,u32 nand_addr,u32 img_size)
+counter	kernel/kmalloc.c	/^	u32     counter;$/;"	m	language:C	struct:page	file:
+cp_stat	fs/stat.c	/^LOCAL void cp_stat (MEM_INODE *m_inode,struct stat *p)$/;"	f	language:C	signature:(MEM_INODE *m_inode,struct stat *p)
+crash	fs/crash.c	/^i32 crash (RO i8 *fmt,...) $/;"	f	language:C	signature:(RO i8 *fmt,...)
+creat_rooti	fs/super.c	/^void creat_rooti (MEM_SUPER_BLOCK *sb)$/;"	f	language:C	signature:(MEM_SUPER_BLOCK *sb)
+create_block	fs/inode.c	/^u32 create_block (MEM_INODE *m_inode,u32 file_blk_no,u8 *created) $/;"	f	language:C	signature:(MEM_INODE *m_inode,u32 file_blk_no,u8 *created)
+create_ramdsk	fs/ramdisk.c	/^i32 create_ramdsk (void)$/;"	f	language:C	signature:(void)
+createp	kernel/task.c	/^i32 createp (RO i8 *name,i32 prio,i32 state)$/;"	f	language:C	signature:(RO i8 *name,i32 prio,i32 state)
+current_p	kernel/kmain.c	/^PCB     *current_p = (void*)0;$/;"	v	language:C
+cw_st	include/ecasey/fs.h	/^}cw_st;$/;"	t	language:C++	typeref:struct:_cw_st
+cwd	include/ecasey/fs.h	/^    cw_st       root,cwd;$/;"	m	language:C++	struct:proc_st
+date	include/ecasey/rtc.h	/^    char    date;$/;"	m	language:C++	struct:_systime
+day	include/ecasey/rtc.h	/^    char    day;            \/* 1 - 7 *\/$/;"	m	language:C++	struct:_systime
+dcache_off	include/2440/cache.h	4;"	d	language:C++
+dcache_on	include/2440/cache.h	14;"	d	language:C++
+delay_ms	lib/libc.c	/^void delay_ms (i32 ms)$/;"	f	language:C	signature:(i32 ms)
+delay_sec	lib/libc.c	/^void delay_sec (i32 sec)$/;"	f	language:C	signature:(i32 sec)
+desc	kernel/page/abt.c	/^    i8*       desc;$/;"	m	language:C	struct:fsr_struct	file:
+dev	include/ecasey/fs.h	/^    u16         dev;$/;"	m	language:C++	struct:_cw_st
+dir_namei	fs/namei.c	/^LOCAL MEM_INODE *dir_namei (RO i8 *path,u32 *name_len,RO i8**name) $/;"	f	language:C	signature:(RO i8 *path,u32 *name_len,RO i8**name)
+dirt	kernel/drv/blk/blk_drv.c	/^    i16     dirt; $/;"	m	language:C	struct:_map_tab_st	file:
+dirt	kernel/drv/blk/blk_drv.c	/^    i8      dirt;                       \/* is it dirt ? *\/$/;"	m	language:C	struct:_tl_cache_st	file:
+dma_conf	kernel/drv/dma/dma.c	/^i32 dma_conf (void)$/;"	f	language:C	signature:(void)
+do_align_fault	kernel/page/fault.c	/^i32 do_align_fault    (RO i8 *desc,u32 type,u32 addr)$/;"	f	language:C	signature:(RO i8 *desc,u32 type,u32 addr)
+do_chdir	fs/namei.c	/^i32 do_chdir (RO i8 *path)$/;"	f	language:C	signature:(RO i8 *path)
+do_chmod	fs/namei.c	/^i32 do_chmod (RO i8 *path,u16 mode)$/;"	f	language:C	signature:(RO i8 *path,u16 mode)
+do_chroot	fs/namei.c	/^i32 do_chroot (RO i8 *path)$/;"	f	language:C	signature:(RO i8 *path)
+do_close	fs/open.c	/^i32 do_close (i32 pid,i32 fd)$/;"	f	language:C	signature:(i32 pid,i32 fd)
+do_data_abt	kernel/page/abt.c	/^void do_data_abt (void)$/;"	f	language:C	signature:(void)
+do_dumpnod	fs/namei.c	/^i32 do_dumpnod (RO i8 *path)$/;"	f	language:C	signature:(RO i8 *path)
+do_dup2	fs/fcntl.c	/^i32 do_dup2 (i32 pid,i32 old,i32 new)$/;"	f	language:C	signature:(i32 pid,i32 old,i32 new)
+do_dupfd	fs/fcntl.c	/^i32 do_dupfd (i32 pid,i32 fd)$/;"	f	language:C	signature:(i32 pid,i32 fd)
+do_ext_abt	kernel/page/fault.c	/^i32 do_ext_abt    (RO i8 *desc,u32 type,u32 addr)$/;"	f	language:C	signature:(RO i8 *desc,u32 type,u32 addr)
+do_fiq	kernel/except.c	/^void do_fiq (void)$/;"	f	language:C	signature:(void)
+do_fstat	fs/stat.c	/^i32 do_fstat (i32 pid,i32 fd,struct stat *p) $/;"	f	language:C	signature:(i32 pid,i32 fd,struct stat *p)
+do_hlink	fs/namei.c	/^i32 do_hlink (RO i8 *old_name,RO i8 *new_name) $/;"	f	language:C	signature:(RO i8 *old_name,RO i8 *new_name)
+do_ioctl	fs/iocntl.c	/^i32 do_ioctl (i32 pid,i32 fd,u32 cmd,u32 arg)$/;"	f	language:C	signature:(i32 pid,i32 fd,u32 cmd,u32 arg)
+do_irq	kernel/vector.c	/^i32 do_irq (void)$/;"	f	language:C	signature:(void)
+do_ls	fs/namei.c	/^i32 do_ls (RO i8 *path)$/;"	f	language:C	signature:(RO i8 *path)
+do_lseek	fs/rw.c	/^i32 do_lseek (u32 pid,i32 fd,u32 offset,i32 origin)$/;"	f	language:C	signature:(u32 pid,i32 fd,u32 offset,i32 origin)
+do_mkdir	fs/namei.c	/^i32 do_mkdir (RO i8 *path ,u16 mode) $/;"	f	language:C	signature:(RO i8 *path ,u16 mode)
+do_mknod	fs/namei.c	/^i32 do_mknod (RO i8* path,u16 mode,u16 dev)$/;"	f	language:C	signature:(RO i8* path,u16 mode,u16 dev)
+do_mount	fs/super.c	/^i32 do_mount (RO i8 *dev_name,RO i8 *dir_name,u32 rw)$/;"	f	language:C	signature:(RO i8 *dev_name,RO i8 *dir_name,u32 rw)
+do_open	fs/open.c	/^i32 do_open (i32 pid,RO i8 *path,i32 flag,i32 mode)$/;"	f	language:C	signature:(i32 pid,RO i8 *path,i32 flag,i32 mode)
+do_page_fault	kernel/page/fault.c	/^i32 do_page_fault (RO i8 *s,u32 type,u32 vaddr)$/;"	f	language:C	signature:(RO i8 *s,u32 type,u32 vaddr)
+do_perm_fault	kernel/page/fault.c	/^i32 do_perm_fault (RO i8 *desc,u32 type,u32 vaddr)$/;"	f	language:C	signature:(RO i8 *desc,u32 type,u32 vaddr)
+do_prefecth_abt	kernel/except.c	/^void do_prefecth_abt (void)$/;"	f	language:C	signature:(void)
+do_read	fs/rw.c	/^i32 do_read (u32 pid,i32 fd,i8 * buf,i32 count)$/;"	f	language:C	signature:(u32 pid,i32 fd,i8 * buf,i32 count)
+do_reserved	kernel/except.c	/^void do_reserved (void)$/;"	f	language:C	signature:(void)
+do_rmdir	fs/namei.c	/^i32 do_rmdir (RO i8 *path) $/;"	f	language:C	signature:(RO i8 *path)
+do_sect_fault	kernel/page/fault.c	/^i32 do_sect_fault (RO i8 *desc,u32 type,u32 vaddr)$/;"	f	language:C	signature:(RO i8 *desc,u32 type,u32 vaddr)
+do_stat	fs/stat.c	/^i32 do_stat (RO i8 *fname,struct stat *p)$/;"	f	language:C	signature:(RO i8 *fname,struct stat *p)
+do_sys_call	kernel/swi.c	/^void do_sys_call (u32 sys_no)$/;"	f	language:C	signature:(u32 sys_no)
+do_sys_msg	kernel/swi.c	/^i32 do_sys_msg (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+do_term_fault	kernel/page/fault.c	/^i32 do_term_fault    (RO i8 *desc,u32 type,u32 addr)$/;"	f	language:C	signature:(RO i8 *desc,u32 type,u32 addr)
+do_trans_fault	kernel/page/fault.c	/^i32 do_trans_fault (RO i8 *desc,u32 type,u32 vaddr)$/;"	f	language:C	signature:(RO i8 *desc,u32 type,u32 vaddr)
+do_umount	fs/super.c	/^i32 do_umount (RO i8 *dir_name)$/;"	f	language:C	signature:(RO i8 *dir_name)
+do_undef_instruction	kernel/except.c	/^void do_undef_instruction (void)$/;"	f	language:C	signature:(void)
+do_unhlink	fs/namei.c	/^i32 do_unhlink (RO i8* name) $/;"	f	language:C	signature:(RO i8* name)
+do_vect_fault	kernel/page/fault.c	/^i32 do_vect_fault    (RO i8 *desc,u32 type,u32 addr)$/;"	f	language:C	signature:(RO i8 *desc,u32 type,u32 addr)
+do_write	fs/rw.c	/^i32 do_write (u32 pid,i32 fd,i8 * buf,i32 count)$/;"	f	language:C	signature:(u32 pid,i32 fd,i8 * buf,i32 count)
+drain_wb	include/2440/cache.h	194;"	d	language:C++
+draw_map	kernel/drv/lcd/lcd.c	/^void draw_map (i32 xstart,i32 ystart,i32 width,i32 height,RO u8 *bmp)$/;"	f	language:C	signature:(i32 xstart,i32 ystart,i32 width,i32 height,RO u8 *bmp)
+dsp	tools/main.c	15;"	d	language:C	file:
+dump_map_tab	kernel/drv/blk/blk_drv.c	/^i8 dump_map_tab (void)$/;"	f	language:C	signature:(void)
+dumpm	kernel/ipc/kmail.c	/^void dumpm (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+dupfd	fs/fcntl.c	/^LOCAL i32 dupfd (i32 pid,i32 fd,i32 start) $/;"	f	language:C	signature:(i32 pid,i32 fd,i32 start)
+e_ehsize	include/ecasey/exec.h	/^	elf32_half  e_ehsize;      $/;"	m	language:C++	struct:elf32_ehdr
+e_entry	include/ecasey/exec.h	/^	elf32_addr  e_entry;      $/;"	m	language:C++	struct:elf32_ehdr
+e_flags	include/ecasey/exec.h	/^	elf32_word  e_flags;      $/;"	m	language:C++	struct:elf32_ehdr
+e_ident	include/ecasey/exec.h	/^	unsigned char e_ident[EI_NIDENT];      $/;"	m	language:C++	struct:elf32_ehdr
+e_machine	include/ecasey/exec.h	/^	elf32_half  e_machine;      $/;"	m	language:C++	struct:elf32_ehdr
+e_phentsize	include/ecasey/exec.h	/^	elf32_half  e_phentsize;     $/;"	m	language:C++	struct:elf32_ehdr
+e_phnum	include/ecasey/exec.h	/^	elf32_half  e_phnum;      $/;"	m	language:C++	struct:elf32_ehdr
+e_phoff	include/ecasey/exec.h	/^	elf32_off   e_phoff;      $/;"	m	language:C++	struct:elf32_ehdr
+e_shentsize	include/ecasey/exec.h	/^	elf32_half  e_shentsize;     $/;"	m	language:C++	struct:elf32_ehdr
+e_shnum	include/ecasey/exec.h	/^	elf32_half  e_shnum;      $/;"	m	language:C++	struct:elf32_ehdr
+e_shoff	include/ecasey/exec.h	/^	elf32_off   e_shoff;      $/;"	m	language:C++	struct:elf32_ehdr
+e_shstrndx	include/ecasey/exec.h	/^	elf32_half  e_shstrndx;  $/;"	m	language:C++	struct:elf32_ehdr
+e_type	include/ecasey/exec.h	/^	elf32_half  e_type;      $/;"	m	language:C++	struct:elf32_ehdr
+e_version	include/ecasey/exec.h	/^	elf32_word  e_version;      $/;"	m	language:C++	struct:elf32_ehdr
+elf32_addr	include/ecasey/exec.h	/^typedef unsigned int	elf32_addr;  $/;"	t	language:C++
+elf32_ehdr	include/ecasey/exec.h	/^struct elf32_ehdr{      $/;"	s	language:C++
+elf32_half	include/ecasey/exec.h	/^typedef unsigned short	elf32_half; $/;"	t	language:C++
+elf32_off	include/ecasey/exec.h	/^typedef unsigned int	elf32_off;   $/;"	t	language:C++
+elf32_phdr	include/ecasey/exec.h	/^struct elf32_phdr{      $/;"	s	language:C++
+elf32_sword	include/ecasey/exec.h	/^typedef signed int		elf32_sword;  $/;"	t	language:C++
+elf32_word	include/ecasey/exec.h	/^typedef unsigned int	elf32_word;  $/;"	t	language:C++
+elfload	fs/exec.c	/^i32 elfload (i32 pid,i8 *bin,u32 size,const i8 *path) $/;"	f	language:C	signature:(i32 pid,i8 *bin,u32 size,const i8 *path)
+err_str	fs/errno.c	/^LOCAL RO i8 *err_str [] = {$/;"	v	language:C
+f_cnt	include/ecasey/fs.h	/^    u16         f_cnt;                      \/\/ file descriptors count$/;"	m	language:C++	struct:_file_st
+f_flags	include/ecasey/fs.h	/^    u16         f_flags;                    \/\/ file opt flag ( open \/ rw )$/;"	m	language:C++	struct:_file_st
+f_inode_ptr	include/ecasey/fs.h	/^    MEM_INODE   *f_inode_ptr;               \/\/ ptr to inode nr $/;"	m	language:C++	struct:_file_st
+f_mode	include/ecasey/fs.h	/^    u16         f_mode;                     \/\/ file opt mode$/;"	m	language:C++	struct:_file_st
+f_pos	include/ecasey/fs.h	/^    u64         f_pos;                      \/\/ file pos $/;"	m	language:C++	struct:_file_st
+false	include/sys/types.h	23;"	d	language:C++
+file_rd	fs/frw.c	/^u32 file_rd (MEM_INODE * inode,file_st* this_file,i8 * buf,i32 count)$/;"	f	language:C	signature:(MEM_INODE * inode,file_st* this_file,i8 * buf,i32 count)
+file_st	include/ecasey/fs.h	/^} file_st;$/;"	t	language:C++	typeref:struct:_file_st
+file_table	fs/open.c	/^file_st file_table[MAX_OPEN_FILES];$/;"	v	language:C
+file_wr	fs/frw.c	/^u32 file_wr (MEM_INODE *m_wr,file_st *this_file,i8 *buf,i32 cnt) $/;"	f	language:C	signature:(MEM_INODE *m_wr,file_st *this_file,i8 *buf,i32 cnt)
+filp	fs/open.c	/^file_st *filp[NR_TASKS][MAX_FILPS];     \/* file operator pointer *\/ $/;"	v	language:C
+find_buffer	fs/buffer.c	/^BUFFER_HEAD *find_buffer (u16 dev_no,u32 blk_no)$/;"	f	language:C	signature:(u16 dev_no,u32 blk_no)
+find_entry	fs/namei.c	/^BUFFER_HEAD *find_entry (MEM_INODE **m_dir,i8 *entry_name,$/;"	f	language:C	signature:(MEM_INODE **m_dir,i8 *entry_name, u32 name_len,DIR_ENTRY **bh_de_ptr)
+find_first_zero	fs/bmap.c	/^LOCAL INLINE u32 find_first_zero (u8 *p,u32 bitno)$/;"	f	language:C	signature:(u8 *p,u32 bitno)
+find_free_page	kernel/kmalloc.c	/^u32 find_free_page (void)$/;"	f	language:C	signature:(void)
+find_free_page_dir	kernel/kmalloc.c	/^u32 find_free_page_dir ( void )$/;"	f	language:C	signature:( void )
+find_free_pid	kernel/task.c	/^i32 find_free_pid (void)$/;"	f	language:C	signature:(void)
+flags	kernel/kmalloc.c	/^	u32     flags;$/;"	m	language:C	struct:page	file:
+fmt	tools/main.c	/^RO i8 *fmt[] = {$/;"	v	language:C
+format_rootfs	fs/super.c	/^LOCAL void format_rootfs (MEM_SUPER_BLOCK *sb)$/;"	f	language:C	signature:(MEM_SUPER_BLOCK *sb)
+fp	include/ecasey/pcb.h	/^    unsigned    fp;                 \/* r11 *\/$/;"	m	language:C++	struct:s_regs_frame
+fp	tools/main.c	/^FILE *fp,*ini ;$/;"	v	language:C
+free_block	fs/bmap.c	/^void free_block (u16 dev_no,u32 blk_nr) $/;"	f	language:C	signature:(u16 dev_no,u32 blk_nr)
+free_buffer	fs/buffer.c	/^void free_buffer  (BUFFER_HEAD *p) $/;"	f	language:C	signature:(BUFFER_HEAD *p)
+free_dind	fs/inode.c	/^LOCAL void free_dind (u16 dev_no,u32 blk_no) $/;"	f	language:C	signature:(u16 dev_no,u32 blk_no)
+free_file_blk	fs/inode.c	/^void free_file_blk (MEM_INODE *m_inode,u32 file_blk_no) $/;"	f	language:C	signature:(MEM_INODE *m_inode,u32 file_blk_no)
+free_ind	fs/inode.c	/^LOCAL void free_ind (u16 dev_no,u32 blk_no) $/;"	f	language:C	signature:(u16 dev_no,u32 blk_no)
+free_inode	fs/bmap.c	/^i32 free_inode (MEM_INODE *inode) $/;"	f	language:C	signature:(MEM_INODE *inode)
+free_list	fs/buffer.c	/^LOCAL BUFFER_HEAD *free_list  = NULL;           $/;"	v	language:C
+free_next	include/ecasey/fs.h	/^    struct      tagBUFFER_HEAD  *free_next; \/* next free *\/$/;"	m	language:C++	struct:tagBUFFER_HEAD	typeref:struct:tagBUFFER_HEAD::tagBUFFER_HEAD
+free_pages	kernel/kmalloc.c	/^void free_pages(struct page *pg,i32 order)$/;"	f	language:C	signature:(struct page *pg,i32 order)
+free_prev	include/ecasey/fs.h	/^    struct      tagBUFFER_HEAD  *free_prev; \/* prev free *\/$/;"	m	language:C++	struct:tagBUFFER_HEAD	typeref:struct:tagBUFFER_HEAD::tagBUFFER_HEAD
+from	include/ecasey/mail.h	/^    int             from,to;        \/* from\/to whom ? *\/$/;"	m	language:C++	struct:_mail_st
+fsce_off	include/2440/cache.h	184;"	d	language:C++
+fsr_idx	kernel/page/abt.c	/^    i32         fsr_idx;$/;"	m	language:C	struct:fsr_struct	file:
+fsr_proc	kernel/page/abt.c	/^    FSR_PROC    fsr_proc;$/;"	m	language:C	struct:fsr_struct	file:
+fsr_st	kernel/page/abt.c	/^LOCAL struct fsr_struct fsr_st [] = {$/;"	v	language:C	typeref:struct:fsr_struct
+fsr_struct	kernel/page/abt.c	/^struct fsr_struct {$/;"	s	language:C	file:
+get_blk	fs/buffer.c	/^BUFFER_HEAD *get_blk (u16 dev_no,u32 blk_no) $/;"	f	language:C	signature:(u16 dev_no,u32 blk_no)
+get_buffer	fs/buffer.c	/^BUFFER_HEAD *get_buffer (u16 dev_no,u32 blk_no)$/;"	f	language:C	signature:(u16 dev_no,u32 blk_no)
+get_date	kernel/drv/rtc.c	/^i8* get_date (i8 *buffer,u32 size)$/;"	f	language:C	signature:(i8 *buffer,u32 size)
+get_empty_inode	fs/inode.c	/^MEM_INODE *get_empty_inode (void) $/;"	f	language:C	signature:(void)
+get_free_fd	fs/open.c	/^LOCAL i32 get_free_fd (i32 pid)$/;"	f	language:C	signature:(i32 pid)
+get_free_ftbl	fs/open.c	/^file_st *get_free_ftbl (void)$/;"	f	language:C	signature:(void)
+get_free_pages	kernel/kmalloc.c	/^void *get_free_pages(u32 flag,i32 order)$/;"	f	language:C	signature:(u32 flag,i32 order)
+get_fsr_addr	kernel/page/abt.c	/^u32 get_fsr_addr (void)$/;"	f	language:C	signature:(void)
+get_fsr_type	kernel/page/abt.c	/^u32 get_fsr_type (void)          $/;"	f	language:C	signature:(void)
+get_irow	fs/buffer.c	22;"	d	language:C	file:
+get_last_dir	fs/namei.c	/^LOCAL MEM_INODE *get_last_dir (RO i8 *path)$/;"	f	language:C	signature:(RO i8 *path)
+get_map_tab	kernel/drv/blk/blk_drv.c	/^i8 get_map_tab (void)$/;"	f	language:C	signature:(void)
+get_order	kernel/kmalloc.c	/^i32 get_order (u32 size)$/;"	f	language:C	signature:(u32 size)
+get_pages_from_list	kernel/kmalloc.c	/^struct page *get_pages_from_list(i32 order)$/;"	f	language:C	signature:(i32 order)
+get_sblk	fs/super.c	/^MEM_SUPER_BLOCK* get_sblk (u16 dev_no) $/;"	f	language:C	signature:(u16 dev_no)
+getadc	lib/libc.c	/^u32 getadc (u32 ch)$/;"	f	language:C	signature:(u32 ch)
+getargv	fs/getline.c	/^i32 getargv (RO i8 *src,i8 argv[][NR_SRC_SIZE])$/;"	f	language:C	signature:(RO i8 *src,i8 argv[][NR_SRC_SIZE])
+getb	include/sys/types.h	36;"	d	language:C++
+getbit	fs/inode.c	/^LOCAL u8 getbit (u8 *addr,u32 bitno)$/;"	f	language:C	signature:(u8 *addr,u32 bitno)
+getchs	lib/libc.c	/^u32 getchs (i8 *buf,u32 size)$/;"	f	language:C	signature:(i8 *buf,u32 size)
+getdd	include/sys/types.h	38;"	d	language:C++
+getdw	include/sys/types.h	37;"	d	language:C++
+getpos	lib/libc.c	/^u32 getpos (u16 *x,u16 *y)$/;"	f	language:C	signature:(u16 *x,u16 *y)
+getpwd	fs/namei.c	/^i8 *getpwd (void) $/;"	f	language:C	signature:(void)
+gettime	lib/libc.c	/^i32 gettime (systm_st *t) $/;"	f	language:C	signature:(systm_st *t)
+getw	include/sys/types.h	35;"	d	language:C++
+good_blk	kernel/drv/blk/blk_drv.c	/^    i16     good_blk[BLKS_PER_NANDF];$/;"	m	language:C	struct:_map_tab_st	file:
+good_cnt	kernel/drv/blk/blk_drv.c	/^    i16     good_cnt;$/;"	m	language:C	struct:_map_tab_st	file:
+hash	fs/buffer.c	/^LOCAL BUFFER_HEAD *hash[NR_HASH] = {0};$/;"	v	language:C
+hash_next	include/ecasey/fs.h	/^    struct      tagBUFFER_HEAD  *hash_next; \/* hash next *\/ $/;"	m	language:C++	struct:tagBUFFER_HEAD	typeref:struct:tagBUFFER_HEAD::tagBUFFER_HEAD
+hash_prev	include/ecasey/fs.h	/^    struct      tagBUFFER_HEAD  *hash_prev; \/* hash prev *\/$/;"	m	language:C++	struct:tagBUFFER_HEAD	typeref:struct:tagBUFFER_HEAD::tagBUFFER_HEAD
+hash_row	fs/buffer.c	23;"	d	language:C	file:
+head	include/ecasey/pcb.h	/^    struct pcb_st   *head,*tail;    \/* send mail queue *\/$/;"	m	language:C++	struct:pcb_st	typeref:struct:pcb_st::pcb_st
+high	include/sys/types.h	32;"	d	language:C++
+hour	include/ecasey/rtc.h	/^    char    hour;$/;"	m	language:C++	struct:_systime
+i16	include/sys/types.h	/^typedef          short      i16;$/;"	t	language:C++
+i32	include/sys/types.h	/^typedef          long       i32;$/;"	t	language:C++
+i64	include/sys/types.h	/^typedef __int64				i64;$/;"	t	language:C++
+i64	include/sys/types.h	/^typedef long long           i64;$/;"	t	language:C++
+i8	include/sys/types.h	/^typedef          char       i8;$/;"	t	language:C++
+i_acc_time	include/ecasey/fs.h	/^    u32         i_acc_time;                 \/* latest access time *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_cnt	include/ecasey/fs.h	/^    u16         i_cnt;                      \/* cnt *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_crt_time	include/ecasey/fs.h	/^    u32         i_crt_time;                 \/* create time *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_dev	include/ecasey/fs.h	/^    u16         i_dev;                      \/* dev *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_dirt	include/ecasey/fs.h	/^    u8          i_dirt;                     \/* dirt *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_gid	include/ecasey/fs.h	/^    u16         i_gid;                      \/* group id *\/$/;"	m	language:C++	struct:tagDEV_INODE
+i_gid	include/ecasey/fs.h	/^    u16         i_gid;                      \/* group id *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_locked	include/ecasey/fs.h	/^    u8          i_locked;                   \/* writer locked *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_magic	include/ecasey/fs.h	/^    u32         i_magic;$/;"	m	language:C++	struct:tagDEV_INODE
+i_magic	include/ecasey/fs.h	/^    u32         i_magic;$/;"	m	language:C++	struct:tagMEM_INODE
+i_mode	include/ecasey/fs.h	/^    u16         i_mode;                     $/;"	m	language:C++	struct:tagDEV_INODE
+i_mode	include/ecasey/fs.h	/^    u16         i_mode;                     $/;"	m	language:C++	struct:tagMEM_INODE
+i_mounted	include/ecasey/fs.h	/^    u8          i_mounted;                  \/* mounted flag *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_mtime	include/ecasey/fs.h	/^    u32         i_mtime;                    \/* latest modified time *\/$/;"	m	language:C++	struct:tagDEV_INODE
+i_mtime	include/ecasey/fs.h	/^    u32         i_mtime;                    \/* latest modified time *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_nlinks	include/ecasey/fs.h	/^    u16         i_nlinks;                   \/* links for files *\/$/;"	m	language:C++	struct:tagDEV_INODE
+i_nlinks	include/ecasey/fs.h	/^    u16         i_nlinks;                   \/* links for files *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_num	include/ecasey/fs.h	/^    u32         i_num;                      \/* inr *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_pipe	include/ecasey/fs.h	/^    u8          i_pipe;                     \/* pipe type *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_seek	include/ecasey/fs.h	/^    u8          i_seek;                     \/* seek flag *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_size	include/ecasey/fs.h	/^    u32         i_size;                     \/* file size (inbytes) *\/$/;"	m	language:C++	struct:tagDEV_INODE
+i_size	include/ecasey/fs.h	/^    u32         i_size;                     \/* file size (inbytes) *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_uid	include/ecasey/fs.h	/^    u16         i_uid;                  $/;"	m	language:C++	struct:tagDEV_INODE
+i_uid	include/ecasey/fs.h	/^    u16         i_uid;                  $/;"	m	language:C++	struct:tagMEM_INODE
+i_valid	include/ecasey/fs.h	/^    u8          i_valid;                    \/* valid *\/$/;"	m	language:C++	struct:tagMEM_INODE
+i_zone	include/ecasey/fs.h	/^    u32         i_zone[9];                  \/* zone block dir *\/$/;"	m	language:C++	struct:tagDEV_INODE
+i_zone	include/ecasey/fs.h	/^    u32         i_zone[9];                  \/* zone block dir *\/$/;"	m	language:C++	struct:tagMEM_INODE
+icache_off	include/2440/cache.h	24;"	d	language:C++
+icache_on	include/2440/cache.h	34;"	d	language:C++
+idump	fs/namei.c	/^LOCAL void idump (MEM_INODE *p)$/;"	f	language:C	signature:(MEM_INODE *p)
+iget	fs/inode.c	/^MEM_INODE* iget (u16 dev_no,u32 inode_nr)$/;"	f	language:C	signature:(u16 dev_no,u32 inode_nr)
+ini	tools/main.c	/^FILE *fp,*ini ;$/;"	v	language:C
+init_buffer	fs/buffer.c	/^i32 init_buffer (void) $/;"	f	language:C	signature:(void)
+init_ftbl	fs/open.c	/^void init_ftbl (void)$/;"	f	language:C	signature:(void)
+init_intr_vector	kernel/vector.c	/^void init_intr_vector (void)$/;"	f	language:C	signature:(void)
+init_iscache	fs/inode.c	/^void init_iscache (void) $/;"	f	language:C	signature:(void)
+init_page_map	kernel/kmalloc.c	/^void init_page_map(void)$/;"	f	language:C	signature:(void)
+init_task	kernel/task.c	/^void init_task (u32 ttb,u32 img_entry)$/;"	f	language:C	signature:(u32 ttb,u32 img_entry)
+init_task_st	kernel/task.c	/^void init_task_st (void)$/;"	f	language:C	signature:(void)
+init_timer	kernel/timer.c	/^void init_timer (i32 nr)$/;"	f	language:C	signature:(i32 nr)
+inode_nr	include/ecasey/fs.h	/^    u32         inode_nr;                   $/;"	m	language:C++	struct:tagDIR_ENTRY
+inode_table	fs/inode.c	/^MEM_INODE inode_table[NR_INODE_BUF] ; $/;"	v	language:C
+inr	include/ecasey/fs.h	/^    u32         inr;$/;"	m	language:C++	struct:_cw_st
+invalidate_dcache	include/2440/cache.h	143;"	d	language:C++
+invalidate_dcaches	include/2440/cache.h	134;"	d	language:C++
+invalidate_icache	include/2440/cache.h	125;"	d	language:C++
+invalidate_idcache	include/2440/cache.h	155;"	d	language:C++
+invalidate_tlb	include/2440/cache.h	222;"	d	language:C++
+invalidate_tlbs	include/2440/cache.h	203;"	d	language:C++
+ip	include/ecasey/pcb.h	/^    unsigned    ip;                 \/* r12 *\/$/;"	m	language:C++	struct:s_regs_frame
+iput	fs/inode.c	/^void iput (MEM_INODE *m_puti) $/;"	f	language:C	signature:(MEM_INODE *m_puti)
+iret	kernel/start.S	/^iret:$/;"	l	language:Asm
+irq_table	kernel/vector.c	/^LOCAL u32 *irq_table = (u32*)(0x00);$/;"	v	language:C
+is_digit	lib/string.c	142;"	d	language:C	file:
+is_dir_empty	fs/namei.c	/^LOCAL u8 is_dir_empty (MEM_INODE *m_dir)$/;"	f	language:C	signature:(MEM_INODE *m_dir)
+isnum	lib/string.c	/^unsigned char isnum (char ch) $/;"	f	language:C	signature:(char ch)
+itoa	lib/string.c	/^char *itoa (unsigned long decem,char *buf,unsigned char base) $/;"	f	language:C	signature:(unsigned long decem,char *buf,unsigned char base)
+k_reenter	kernel/start.S	/^k_reenter:      .long   0$/;"	l	language:Asm
+kernel_start	kernel/kmain.c	/^void kernel_start (void)$/;"	f	language:C	signature:(void)
+key1_proc	kernel/drv/keys.c	/^void  key1_proc (void)$/;"	f	language:C	signature:(void)
+key2_proc	kernel/drv/keys.c	/^void  key2_proc (void)$/;"	f	language:C	signature:(void)
+key3_proc	kernel/drv/keys.c	/^void  key3_proc (void)$/;"	f	language:C	signature:(void)
+key4_proc	kernel/drv/keys.c	/^void  key4_proc (void)$/;"	f	language:C	signature:(void)
+keys_intr_conf	kernel/drv/keys.c	/^void keys_intr_conf (void)$/;"	f	language:C	signature:(void)
+l2pblkno	kernel/drv/blk/blk_drv.c	/^INLINE i16 l2pblkno (i16 lblkno)$/;"	f	language:C	signature:(i16 lblkno)
+lcd_blush	kernel/drv/lcd/lcd.c	/^void lcd_blush( u16 c)$/;"	f	language:C	signature:( u16 c)
+lcd_buf	kernel/drv/lcd/lcd.c	/^LOCAL       PLCD_BUF    lcd_buf;$/;"	v	language:C
+lcd_buff_init	kernel/drv/lcd/lcd.c	/^LOCAL void lcd_buff_init (void)$/;"	f	language:C	signature:(void)
+lcd_gotoxy	kernel/drv/lcd/lcd.c	/^u32 lcd_gotoxy (i32 x,i32 y)$/;"	f	language:C	signature:(i32 x,i32 y)
+lcd_init	kernel/drv/lcd/lcd.c	/^void lcd_init (void)$/;"	f	language:C	signature:(void)
+lcd_mode_init	kernel/drv/lcd/lcd.c	/^LOCAL void lcd_mode_init (void)$/;"	f	language:C	signature:(void)
+lcd_port_init	kernel/drv/lcd/lcd.c	/^LOCAL void lcd_port_init (void)$/;"	f	language:C	signature:(void)
+lcd_printf	kernel/drv/lcd/lcd.c	/^i32 lcd_printf (u32 c,u32 bk_c,u32 st,i8 *fmt,...)$/;"	f	language:C	signature:(u32 c,u32 bk_c,u32 st,i8 *fmt,...)
+lcd_put_ascii	kernel/drv/lcd/lcd.c	/^void lcd_put_ascii(u32 x,u32 y,u8 ch,u32 c,u32 bk_c,u32 st)$/;"	f	language:C	signature:(u32 x,u32 y,u8 ch,u32 c,u32 bk_c,u32 st)
+lcd_putch	kernel/drv/lcd/lcd.c	/^i32 lcd_putch (u32 c,u32 bk_c,u32 st,i8 ch)$/;"	f	language:C	signature:(u32 c,u32 bk_c,u32 st,i8 ch)
+led_conf	boot/led.c	/^void led_conf (void)$/;"	f	language:C	signature:(void)
+led_conf	kernel/drv/led.c	/^void led_conf (void)$/;"	f	language:C	signature:(void)
+led_opt	boot/led.c	/^void led_opt (i32 led_nr,i32 val)$/;"	f	language:C	signature:(i32 led_nr,i32 val)
+led_opt	kernel/drv/led.c	/^void led_opt (i32 led_nr,i32 val)$/;"	f	language:C	signature:(i32 led_nr,i32 val)
+len	include/ecasey/mail.h	/^    unsigned        len;            \/* text len *\/$/;"	m	language:C++	struct:_mail_st
+list	kernel/kmalloc.c	/^	struct  list_head list;      \/\/to string the buddy member$/;"	m	language:C	struct:page	typeref:struct:page::list_head	file:
+list_add	kernel/kmalloc.c	/^LOCAL INLINE void list_add(struct list_head *new_lst, struct list_head *head)$/;"	f	language:C	signature:(struct list_head *new_lst, struct list_head *head)
+list_add_chain	kernel/kmalloc.c	/^LOCAL INLINE void list_add_chain(struct list_head *ch,struct list_head *ct,struct list_head *head)$/;"	f	language:C	signature:(struct list_head *ch,struct list_head *ct,struct list_head *head)
+list_add_chain_tail	kernel/kmalloc.c	/^LOCAL INLINE void list_add_chain_tail(struct list_head *ch,struct list_head *ct,struct list_head *head)$/;"	f	language:C	signature:(struct list_head *ch,struct list_head *ct,struct list_head *head)
+list_add_tail	kernel/kmalloc.c	/^LOCAL INLINE void list_add_tail(struct list_head *new_lst, struct list_head *head)$/;"	f	language:C	signature:(struct list_head *new_lst, struct list_head *head)
+list_del	kernel/kmalloc.c	/^LOCAL INLINE void list_del(struct list_head * entry)$/;"	f	language:C	signature:(struct list_head * entry)
+list_dir	fs/namei.c	/^LOCAL u8 list_dir (MEM_INODE **m_dir)$/;"	f	language:C	signature:(MEM_INODE **m_dir)
+list_empty	kernel/kmalloc.c	/^LOCAL INLINE i32 list_empty(RO struct list_head *head)$/;"	f	language:C	signature:(RO struct list_head *head)
+list_entry	kernel/kmalloc.c	140;"	d	language:C	file:
+list_for_each	kernel/kmalloc.c	143;"	d	language:C	file:
+list_head	kernel/kmalloc.c	/^struct list_head {$/;"	s	language:C	file:
+list_remove_chain	kernel/kmalloc.c	/^LOCAL INLINE void list_remove_chain(struct list_head *ch,struct list_head *ct)$/;"	f	language:C	signature:(struct list_head *ch,struct list_head *ct)
+ll_nand_read_page	boot/nand.c	/^u32 ll_nand_read_page (void *to,u32 start_addr)$/;"	f	language:C	signature:(void *to,u32 start_addr)
+ll_rw_blk	fs/blk_rw.c	/^i32 ll_rw_blk (u8 rw,u16 dev_no,u32 blk_nr,u32 blks_cnt,void *buf)$/;"	f	language:C	signature:(u8 rw,u16 dev_no,u32 blk_nr,u32 blks_cnt,void *buf)
+load_kernel	boot/loaderk.c	/^void load_kernel (void)$/;"	f	language:C	signature:(void)
+load_rootfs	fs/super.c	/^void load_rootfs (u16 dev_no)$/;"	f	language:C	signature:(u16 dev_no)
+loader_start	boot/loader.c	/^void loader_start (void)$/;"	f	language:C	signature:(void)
+low	include/sys/types.h	33;"	d	language:C++
+lr	include/ecasey/pcb.h	/^    unsigned    lr;                 \/* usr lr *\/$/;"	m	language:C++	struct:s_regs_frame
+mail	include/ecasey/pcb.h	/^    mail_st         mail;           \/* current send mai *\/$/;"	m	language:C++	struct:pcb_st
+mail_st	include/ecasey/mail.h	/^}mail_st;$/;"	t	language:C++	typeref:struct:_mail_st
+main	fs/main.c	/^int main (void)$/;"	f	language:C	signature:(void)
+main	net/main.c	/^int main (void)$/;"	f	language:C	signature:(void)
+main	sh/main.c	/^int main (void)$/;"	f	language:C	signature:(void)
+main	tools/a/main.c	/^int main (int argc,char *argv[])$/;"	f	language:C	signature:(int argc,char *argv[])
+main	tools/main.c	/^int main (int argc,char *argv[])$/;"	f	language:C	signature:(int argc,char *argv[])
+map_page_dir	lib/klib/mmu.c	/^void map_page_dir  (u32 paddr,u32 vaddr,u32 size,$/;"	f	language:C	signature:(u32 paddr,u32 vaddr,u32 size, u32 ttb_base,u32 page_dir_attr, u32 page_tbl,u32 page_tbl_attr)
+map_page_tbl	lib/klib/mmu.c	/^void map_page_tbl (u32 page_tbl,u32 page_tbl_attr,u32 paddr)$/;"	f	language:C	signature:(u32 page_tbl,u32 page_tbl_attr,u32 paddr)
+map_seg_dir	lib/klib/mmu.c	/^void map_seg_dir  (u32 paddr,u32 vaddr,u32 size,$/;"	f	language:C	signature:(u32 paddr,u32 vaddr,u32 size, u32 ttb_base,u32 page_dir_attr)
+map_tab	kernel/drv/blk/blk_drv.c	/^LOCAL map_tab_st *map_tab = (void*)0;$/;"	v	language:C
+map_tab_st	kernel/drv/blk/blk_drv.c	/^}map_tab_st;$/;"	t	language:C	typeref:struct:_map_tab_st	file:
+map_vaddr2paddr	kernel/page/fault.c	/^void map_vaddr2paddr (u32 ttb_base,u32 vaddr,u32 paddr,u32 ap,i32 flush)$/;"	f	language:C	signature:(u32 ttb_base,u32 vaddr,u32 paddr,u32 ap,i32 flush)
+mem_cfg_val	boot/start.S	/^mem_cfg_val:$/;"	l	language:Asm
+memcpy	lib/string.c	/^inline void * memcpy(void * dest,const void * src, unsigned long size)$/;"	f	language:C	signature:(void * dest,const void * src, unsigned long size)
+memmove	lib/string.c	/^inline void *memmove (void *dest,void *src,int count)$/;"	f	language:C	signature:(void *dest,void *src,int count)
+memset	lib/string.c	/^inline void * memset(void * s,char c,int count)$/;"	f	language:C	signature:(void * s,char c,int count)
+memsetup	boot/start.S	/^memsetup:$/;"	l	language:Asm
+min	include/ecasey/rtc.h	/^    char    min;$/;"	m	language:C++	struct:_systime
+mmu_off	include/2440/cache.h	44;"	d	language:C++
+mmu_on	include/2440/cache.h	54;"	d	language:C++
+mon	include/ecasey/rtc.h	/^    char    mon;$/;"	m	language:C++	struct:_systime
+msg	include/ecasey/mail.h	/^    }msg;$/;"	m	language:C++	struct:_mail_st	typeref:union:_mail_st::_msg
+name	include/ecasey/fs.h	/^    i8          name[NAME_LEN] ;            $/;"	m	language:C++	struct:tagDIR_ENTRY
+namei	fs/namei.c	/^MEM_INODE *namei (RO i8 *path) $/;"	f	language:C	signature:(RO i8 *path)
+nand_get_id	kernel/drv/blk/blk_drv.c	/^i8 nand_get_id (void)$/;"	f	language:C	signature:(void)
+nand_init	boot/nand.c	/^void nand_init (void)$/;"	f	language:C	signature:(void)
+nand_read_byte	boot/nand.c	86;"	d	language:C	file:
+nand_read_byte	include/2440/drvs.h	84;"	d	language:C++
+nand_read_page	kernel/drv/blk/blk_drv.c	/^u32 nand_read_page (void *to,u32 start_addr)$/;"	f	language:C	signature:(void *to,u32 start_addr)
+nand_reset	boot/nand.c	/^i32 nand_reset (void)$/;"	f	language:C	signature:(void)
+nand_reset	kernel/drv/blk/blk_drv.c	/^i32 nand_reset (void)$/;"	f	language:C	signature:(void)
+nand_rw	lib/libc.c	/^u32 nand_rw (u8 rw,u32 blkno,void *buf)$/;"	f	language:C	signature:(u8 rw,u32 blkno,void *buf)
+nand_write_byte	boot/nand.c	87;"	d	language:C	file:
+nand_write_byte	include/2440/drvs.h	85;"	d	language:C++
+nandx_erase_blk	kernel/drv/blk/blk_drv.c	/^i8 nandx_erase_blk (u32 blk_nr)$/;"	f	language:C	signature:(u32 blk_nr)
+nandx_is_badblk	kernel/drv/blk/blk_drv.c	/^u8 nandx_is_badblk (u32 block)$/;"	f	language:C	signature:(u32 block)
+nandx_mark_badblk	kernel/drv/blk/blk_drv.c	/^u8 nandx_mark_badblk (u32 block)$/;"	f	language:C	signature:(u32 block)
+nandx_read_byte	kernel/drv/blk/blk_drv.c	/^u8 nandx_read_byte (u32 page_nr,u32 addr)$/;"	f	language:C	signature:(u32 page_nr,u32 addr)
+nandx_read_page	kernel/drv/blk/blk_drv.c	/^i8 nandx_read_page (u8 *to,u32 size,u32  page_nr)$/;"	f	language:C	signature:(u8 *to,u32 size,u32 page_nr)
+nandx_write_byte	kernel/drv/blk/blk_drv.c	/^u8 nandx_write_byte (u32 page_nr,u32 addr,u8 dat)$/;"	f	language:C	signature:(u32 page_nr,u32 addr,u8 dat)
+nandx_write_page	kernel/drv/blk/blk_drv.c	/^i8 nandx_write_page (u32 page_nr,u8 *src,u32 size)$/;"	f	language:C	signature:(u32 page_nr,u8 *src,u32 size)
+new_block	fs/bmap.c	/^u32 new_block (u16 dev_no) $/;"	f	language:C	signature:(u16 dev_no)
+new_inode	fs/bmap.c	/^MEM_INODE* new_inode (u16 dev_no) $/;"	f	language:C	signature:(u16 dev_no)
+next	include/ecasey/mail.h	/^    struct _mail_st *next;          \/* next message *\/$/;"	m	language:C++	struct:_mail_st	typeref:struct:_mail_st::_mail_st
+next	include/ecasey/pcb.h	/^    struct pcb_st   *next;          \/* queue link *\/$/;"	m	language:C++	struct:pcb_st	typeref:struct:pcb_st::pcb_st
+next	kernel/kmalloc.c	/^	struct list_head *next, *prev;$/;"	m	language:C	struct:list_head	typeref:struct:list_head::list_head	file:
+nop	kernel/vector.c	/^void nop (void)$/;"	f	language:C	signature:(void)
+number	lib/string.c	/^static char * number(char * str, int num, int base, int size, int precision$/;"	f	language:C	file:	signature:(char * str, int num, int base, int size, int precision ,int type)
+offsetof	kernel/kmalloc.c	130;"	d	language:C	file:
+open_namei	fs/namei.c	/^i32 open_namei (RO i8 *path,u16 flag,u16 mode,MEM_INODE **dest_inode)$/;"	f	language:C	signature:(RO i8 *path,u16 flag,u16 mode,MEM_INODE **dest_inode)
+order	kernel/kmalloc.c	/^	i32     order;$/;"	m	language:C	struct:page	file:
+p2v	include/2440/ports.h	12;"	d	language:C++
+pISR_ADC	include/2440/2440addr.h	528;"	d	language:C++
+pISR_BAT_FLT	include/2440/2440addr.h	504;"	d	language:C++
+pISR_CAM	include/2440/2440addr.h	503;"	d	language:C++
+pISR_DABORT	include/2440/2440addr.h	492;"	d	language:C++
+pISR_DMA0	include/2440/2440addr.h	514;"	d	language:C++
+pISR_DMA1	include/2440/2440addr.h	515;"	d	language:C++
+pISR_DMA2	include/2440/2440addr.h	516;"	d	language:C++
+pISR_DMA3	include/2440/2440addr.h	517;"	d	language:C++
+pISR_EINT0	include/2440/2440addr.h	497;"	d	language:C++
+pISR_EINT1	include/2440/2440addr.h	498;"	d	language:C++
+pISR_EINT2	include/2440/2440addr.h	499;"	d	language:C++
+pISR_EINT3	include/2440/2440addr.h	500;"	d	language:C++
+pISR_EINT4_7	include/2440/2440addr.h	501;"	d	language:C++
+pISR_EINT8_23	include/2440/2440addr.h	502;"	d	language:C++
+pISR_FIQ	include/2440/2440addr.h	495;"	d	language:C++
+pISR_IIC	include/2440/2440addr.h	524;"	d	language:C++
+pISR_IRQ	include/2440/2440addr.h	494;"	d	language:C++
+pISR_LCD	include/2440/2440addr.h	513;"	d	language:C++
+pISR_NFCON	include/2440/2440addr.h	521;"	d	language:C++
+pISR_PABORT	include/2440/2440addr.h	491;"	d	language:C++
+pISR_RESERVED	include/2440/2440addr.h	493;"	d	language:C++
+pISR_RESET	include/2440/2440addr.h	488;"	d	language:C++
+pISR_RTC	include/2440/2440addr.h	527;"	d	language:C++
+pISR_SDI	include/2440/2440addr.h	518;"	d	language:C++
+pISR_SPI0	include/2440/2440addr.h	519;"	d	language:C++
+pISR_SPI1	include/2440/2440addr.h	526;"	d	language:C++
+pISR_SWI	include/2440/2440addr.h	490;"	d	language:C++
+pISR_TICK	include/2440/2440addr.h	505;"	d	language:C++
+pISR_TIMER0	include/2440/2440addr.h	507;"	d	language:C++
+pISR_TIMER1	include/2440/2440addr.h	508;"	d	language:C++
+pISR_TIMER2	include/2440/2440addr.h	509;"	d	language:C++
+pISR_TIMER3	include/2440/2440addr.h	510;"	d	language:C++
+pISR_TIMER4	include/2440/2440addr.h	511;"	d	language:C++
+pISR_UART0	include/2440/2440addr.h	525;"	d	language:C++
+pISR_UART1	include/2440/2440addr.h	520;"	d	language:C++
+pISR_UART2	include/2440/2440addr.h	512;"	d	language:C++
+pISR_UNDEF	include/2440/2440addr.h	489;"	d	language:C++
+pISR_USBD	include/2440/2440addr.h	522;"	d	language:C++
+pISR_USBH	include/2440/2440addr.h	523;"	d	language:C++
+pISR_WDT_AC97	include/2440/2440addr.h	506;"	d	language:C++
+pNFADDR	boot/nand.c	91;"	d	language:C	file:
+pNFADDR	include/2440/drvs.h	89;"	d	language:C++
+pNFCMD	boot/nand.c	90;"	d	language:C	file:
+pNFCMD	include/2440/drvs.h	88;"	d	language:C++
+pNFCONF	boot/nand.c	89;"	d	language:C	file:
+pNFCONF	include/2440/drvs.h	87;"	d	language:C++
+pNFDATA	boot/nand.c	92;"	d	language:C	file:
+pNFDATA	include/2440/drvs.h	90;"	d	language:C++
+pNFECC	boot/nand.c	94;"	d	language:C	file:
+pNFECC	include/2440/drvs.h	92;"	d	language:C++
+pNFSTAT	boot/nand.c	93;"	d	language:C	file:
+pNFSTAT	include/2440/drvs.h	91;"	d	language:C++
+p_align	include/ecasey/exec.h	/^	elf32_word  p_align;  $/;"	m	language:C++	struct:elf32_phdr
+p_filesz	include/ecasey/exec.h	/^	elf32_word  p_filesz;      $/;"	m	language:C++	struct:elf32_phdr
+p_flags	include/ecasey/exec.h	/^	elf32_word  p_flags;      $/;"	m	language:C++	struct:elf32_phdr
+p_memsz	include/ecasey/exec.h	/^	elf32_word  p_memsz;      $/;"	m	language:C++	struct:elf32_phdr
+p_offset	include/ecasey/exec.h	/^	elf32_off   p_offset;      $/;"	m	language:C++	struct:elf32_phdr
+p_paddr	include/ecasey/exec.h	/^	elf32_addr  p_paddr;      $/;"	m	language:C++	struct:elf32_phdr
+p_type	include/ecasey/exec.h	/^	elf32_word  p_type;      $/;"	m	language:C++	struct:elf32_phdr
+p_vaddr	include/ecasey/exec.h	/^	elf32_addr  p_vaddr;      $/;"	m	language:C++	struct:elf32_phdr
+page	kernel/kmalloc.c	/^struct page {$/;"	s	language:C	file:
+page_address	kernel/kmalloc.c	/^void *page_address(struct page *pg)$/;"	f	language:C	signature:(struct page *pg)
+page_buddy	kernel/kmalloc.c	/^struct list_head *page_buddy = (void*)0;$/;"	v	language:C	typeref:struct:list_head
+panic	lib/klib/panic.c	/^i32 panic (RO i8 *fmt,...)$/;"	f	language:C	signature:(RO i8 *fmt,...)
+pause	lib/libc.c	/^i32 pause (void)$/;"	f	language:C	signature:(void)
+pc	include/ecasey/pcb.h	/^    unsigned    pc;                 \/* r14\/r15 (img entry) *\/$/;"	m	language:C++	struct:s_regs_frame
+pcb_st	include/ecasey/pcb.h	/^typedef struct pcb_st {$/;"	s	language:C++
+perr	fs/errno.c	/^void perr (i32 errno)$/;"	f	language:C	signature:(i32 errno)
+pfilp	include/ecasey/fs.h	176;"	d	language:C++
+physrw	kernel/ipc/kmail.c	/^i32 physrw (i32 rw,u8 *addr1,i32 pid,$/;"	f	language:C	signature:(i32 rw,u8 *addr1,i32 pid, u8 *addr2,i32 size)
+pid	include/ecasey/fs.h	/^    i32         pid;$/;"	m	language:C++	struct:proc_st
+pid	include/ecasey/pcb.h	/^    int             pid;            \/* process id *\/$/;"	m	language:C++	struct:pcb_st
+pix_pos	kernel/drv/lcd/lcd.c	/^LOCAL u32  pix_pos = 0;$/;"	v	language:C
+popd	fs/namei.c	/^i8 *popd (void)$/;"	f	language:C	signature:(void)
+pos	fs/buffer.c	/^LOCAL u32 pos = 0;      \/* sync postion ,ROBIN ROUND *\/$/;"	v	language:C
+postm	lib/mail.c	/^i32 postm (i32 to,u32 umsg,void *src,u32 len)$/;"	f	language:C	signature:(i32 to,u32 umsg,void *src,u32 len)
+prev	kernel/kmalloc.c	/^	struct list_head *next, *prev;$/;"	m	language:C	struct:list_head	typeref:struct:list_head::	file:
+printf	lib/libc.c	/^i32 printf (RO i8 *fmt,...) $/;"	f	language:C	signature:(RO i8 *fmt,...)
+printk	include/ecasey/kernel.h	38;"	d	language:C++
+prio	include/ecasey/pcb.h	/^    char            prio;           \/* priority *\/$/;"	m	language:C++	struct:pcb_st
+proc	fs/proc.c	/^},*proc = &process;$/;"	v	language:C	typeref:struct:
+proc_st	include/ecasey/fs.h	/^struct proc_st {$/;"	s	language:C++
+process	fs/proc.c	/^struct proc_st process = {$/;"	v	language:C	typeref:struct:proc_st
+pushd	fs/namei.c	/^i32 pushd (RO i8 *path)$/;"	f	language:C	signature:(RO i8 *path)
+put_free_pages	kernel/kmalloc.c	/^void put_free_pages(void *addr,i32 order)$/;"	f	language:C	signature:(void *addr,i32 order)
+put_map_tab	kernel/drv/blk/blk_drv.c	/^i8 put_map_tab (void)$/;"	f	language:C	signature:(void)
+put_pages_to_list	kernel/kmalloc.c	/^void put_pages_to_list(struct page *pg,i32 order)$/;"	f	language:C	signature:(struct page *pg,i32 order)
+put_pix	kernel/drv/lcd/lcd.c	/^void put_pix (u32 x,u32 y,u32 c)$/;"	f	language:C	signature:(u32 x,u32 y,u32 c)
+put_rootfs	fs/super.c	/^INLINE void put_rootfs (u16 dev)$/;"	f	language:C	signature:(u16 dev)
+put_sblk	fs/super.c	/^INLINE void put_sblk (u16 dev)$/;"	f	language:C	signature:(u16 dev)
+pwd	include/ecasey/fs.h	/^    i8          pwd [PWD_LEN];$/;"	m	language:C++	struct:proc_st
+r0	include/ecasey/pcb.h	/^    unsigned    r0;     $/;"	m	language:C++	struct:s_regs_frame
+r1	include/ecasey/pcb.h	/^    unsigned    r1;$/;"	m	language:C++	struct:s_regs_frame
+r10	include/ecasey/pcb.h	/^    unsigned    r10;                \/* r10 *\/$/;"	m	language:C++	struct:s_regs_frame
+r2	include/ecasey/pcb.h	/^    unsigned    r2;$/;"	m	language:C++	struct:s_regs_frame
+r3	include/ecasey/pcb.h	/^    unsigned    r3;$/;"	m	language:C++	struct:s_regs_frame
+r4	include/ecasey/pcb.h	/^    unsigned    r4;$/;"	m	language:C++	struct:s_regs_frame
+r5	include/ecasey/pcb.h	/^    unsigned    r5;$/;"	m	language:C++	struct:s_regs_frame
+r6	include/ecasey/pcb.h	/^    unsigned    r6;$/;"	m	language:C++	struct:s_regs_frame
+r7	include/ecasey/pcb.h	/^    unsigned    r7;$/;"	m	language:C++	struct:s_regs_frame
+r8	include/ecasey/pcb.h	/^    unsigned    r8;$/;"	m	language:C++	struct:s_regs_frame
+r9	include/ecasey/pcb.h	/^    unsigned    r9;$/;"	m	language:C++	struct:s_regs_frame
+rAC_CODEC_CMD	include/2440/2440addr.h	303;"	d	language:C++
+rAC_CODEC_STAT	include/2440/2440addr.h	304;"	d	language:C++
+rAC_GLBCTRL	include/2440/2440addr.h	301;"	d	language:C++
+rAC_GLBSTAT	include/2440/2440addr.h	302;"	d	language:C++
+rAC_MICADDR	include/2440/2440addr.h	306;"	d	language:C++
+rAC_MICDATA	include/2440/2440addr.h	308;"	d	language:C++
+rAC_PCMADDR	include/2440/2440addr.h	305;"	d	language:C++
+rAC_PCMDATA	include/2440/2440addr.h	307;"	d	language:C++
+rADCCON	include/2440/2440addr.h	392;"	d	language:C++
+rADCDAT0	include/2440/2440addr.h	395;"	d	language:C++
+rADCDAT1	include/2440/2440addr.h	396;"	d	language:C++
+rADCDLY	include/2440/2440addr.h	394;"	d	language:C++
+rADCTSC	include/2440/2440addr.h	393;"	d	language:C++
+rADCUPDN	include/2440/2440addr.h	397;"	d	language:C++
+rALMDATE	include/2440/2440addr.h	378;"	d	language:C++
+rALMHOUR	include/2440/2440addr.h	377;"	d	language:C++
+rALMMIN	include/2440/2440addr.h	376;"	d	language:C++
+rALMMON	include/2440/2440addr.h	379;"	d	language:C++
+rALMSEC	include/2440/2440addr.h	375;"	d	language:C++
+rALMYEAR	include/2440/2440addr.h	380;"	d	language:C++
+rBCDDATE	include/2440/2440addr.h	385;"	d	language:C++
+rBCDDAY	include/2440/2440addr.h	386;"	d	language:C++
+rBCDHOUR	include/2440/2440addr.h	384;"	d	language:C++
+rBCDMIN	include/2440/2440addr.h	383;"	d	language:C++
+rBCDMON	include/2440/2440addr.h	387;"	d	language:C++
+rBCDSEC	include/2440/2440addr.h	382;"	d	language:C++
+rBCDYEAR	include/2440/2440addr.h	388;"	d	language:C++
+rBLUELUT	include/2440/2440addr.h	107;"	d	language:C++
+rCAMDIVN	include/2440/2440addr.h	93;"	d	language:C++
+rCICOCBSA1	include/2440/2440addr.h	146;"	d	language:C++
+rCICOCBSA2	include/2440/2440addr.h	147;"	d	language:C++
+rCICOCBSA3	include/2440/2440addr.h	148;"	d	language:C++
+rCICOCBSA4	include/2440/2440addr.h	149;"	d	language:C++
+rCICOCRSA1	include/2440/2440addr.h	150;"	d	language:C++
+rCICOCRSA2	include/2440/2440addr.h	151;"	d	language:C++
+rCICOCRSA3	include/2440/2440addr.h	152;"	d	language:C++
+rCICOCRSA4	include/2440/2440addr.h	153;"	d	language:C++
+rCICOCTRL	include/2440/2440addr.h	155;"	d	language:C++
+rCICOSCCTRL	include/2440/2440addr.h	158;"	d	language:C++
+rCICOSCPREDST	include/2440/2440addr.h	157;"	d	language:C++
+rCICOSCPRERATIO	include/2440/2440addr.h	156;"	d	language:C++
+rCICOSTATUS	include/2440/2440addr.h	160;"	d	language:C++
+rCICOTAREA	include/2440/2440addr.h	159;"	d	language:C++
+rCICOTRGFMT	include/2440/2440addr.h	154;"	d	language:C++
+rCICOYSA1	include/2440/2440addr.h	142;"	d	language:C++
+rCICOYSA2	include/2440/2440addr.h	143;"	d	language:C++
+rCICOYSA3	include/2440/2440addr.h	144;"	d	language:C++
+rCICOYSA4	include/2440/2440addr.h	145;"	d	language:C++
+rCIGCTRL	include/2440/2440addr.h	141;"	d	language:C++
+rCIIMGCPT	include/2440/2440addr.h	172;"	d	language:C++
+rCIPRCLRSA1	include/2440/2440addr.h	161;"	d	language:C++
+rCIPRCLRSA2	include/2440/2440addr.h	162;"	d	language:C++
+rCIPRCLRSA3	include/2440/2440addr.h	163;"	d	language:C++
+rCIPRCLRSA4	include/2440/2440addr.h	164;"	d	language:C++
+rCIPRCTRL	include/2440/2440addr.h	166;"	d	language:C++
+rCIPRSCCTRL	include/2440/2440addr.h	169;"	d	language:C++
+rCIPRSCPREDST	include/2440/2440addr.h	168;"	d	language:C++
+rCIPRSCPRERATIO	include/2440/2440addr.h	167;"	d	language:C++
+rCIPRSTATUS	include/2440/2440addr.h	171;"	d	language:C++
+rCIPRTAREA	include/2440/2440addr.h	170;"	d	language:C++
+rCIPRTRGFMT	include/2440/2440addr.h	165;"	d	language:C++
+rCISRCFMT	include/2440/2440addr.h	139;"	d	language:C++
+rCIWDOFST	include/2440/2440addr.h	140;"	d	language:C++
+rCLKCON	include/2440/2440addr.h	90;"	d	language:C++
+rCLKDIVN	include/2440/2440addr.h	92;"	d	language:C++
+rCLKSLOW	include/2440/2440addr.h	91;"	d	language:C++
+rDCDST0	include/2440/2440addr.h	52;"	d	language:C++
+rDCDST1	include/2440/2440addr.h	62;"	d	language:C++
+rDCDST2	include/2440/2440addr.h	72;"	d	language:C++
+rDCDST3	include/2440/2440addr.h	82;"	d	language:C++
+rDCLKCON	include/2440/2440addr.h	349;"	d	language:C++
+rDCON0	include/2440/2440addr.h	49;"	d	language:C++
+rDCON1	include/2440/2440addr.h	59;"	d	language:C++
+rDCON2	include/2440/2440addr.h	69;"	d	language:C++
+rDCON3	include/2440/2440addr.h	79;"	d	language:C++
+rDCSRC0	include/2440/2440addr.h	51;"	d	language:C++
+rDCSRC1	include/2440/2440addr.h	61;"	d	language:C++
+rDCSRC2	include/2440/2440addr.h	71;"	d	language:C++
+rDCSRC3	include/2440/2440addr.h	81;"	d	language:C++
+rDIDST0	include/2440/2440addr.h	47;"	d	language:C++
+rDIDST1	include/2440/2440addr.h	57;"	d	language:C++
+rDIDST2	include/2440/2440addr.h	67;"	d	language:C++
+rDIDST3	include/2440/2440addr.h	77;"	d	language:C++
+rDIDSTC0	include/2440/2440addr.h	48;"	d	language:C++
+rDIDSTC1	include/2440/2440addr.h	58;"	d	language:C++
+rDIDSTC2	include/2440/2440addr.h	68;"	d	language:C++
+rDIDSTC3	include/2440/2440addr.h	78;"	d	language:C++
+rDISRC0	include/2440/2440addr.h	45;"	d	language:C++
+rDISRC1	include/2440/2440addr.h	55;"	d	language:C++
+rDISRC2	include/2440/2440addr.h	65;"	d	language:C++
+rDISRC3	include/2440/2440addr.h	75;"	d	language:C++
+rDISRCC0	include/2440/2440addr.h	46;"	d	language:C++
+rDISRCC1	include/2440/2440addr.h	56;"	d	language:C++
+rDISRCC2	include/2440/2440addr.h	66;"	d	language:C++
+rDISRCC3	include/2440/2440addr.h	76;"	d	language:C++
+rDITHMODE	include/2440/2440addr.h	108;"	d	language:C++
+rDMASKTRIG0	include/2440/2440addr.h	53;"	d	language:C++
+rDMASKTRIG1	include/2440/2440addr.h	63;"	d	language:C++
+rDMASKTRIG2	include/2440/2440addr.h	73;"	d	language:C++
+rDMASKTRIG3	include/2440/2440addr.h	83;"	d	language:C++
+rDSC0	include/2440/2440addr.h	367;"	d	language:C++
+rDSC1	include/2440/2440addr.h	368;"	d	language:C++
+rDSTAT0	include/2440/2440addr.h	50;"	d	language:C++
+rDSTAT1	include/2440/2440addr.h	60;"	d	language:C++
+rDSTAT2	include/2440/2440addr.h	70;"	d	language:C++
+rDSTAT3	include/2440/2440addr.h	80;"	d	language:C++
+rEINTFLT0	include/2440/2440addr.h	353;"	d	language:C++
+rEINTFLT1	include/2440/2440addr.h	354;"	d	language:C++
+rEINTFLT2	include/2440/2440addr.h	355;"	d	language:C++
+rEINTFLT3	include/2440/2440addr.h	356;"	d	language:C++
+rEINTMASK	include/2440/2440addr.h	357;"	d	language:C++
+rEINTPEND	include/2440/2440addr.h	358;"	d	language:C++
+rEP0_CSR	include/2440/2440addr.h	244;"	d	language:C++
+rEP0_FIFO	include/2440/2440addr.h	251;"	d	language:C++
+rEP1_DMA_CON	include/2440/2440addr.h	256;"	d	language:C++
+rEP1_DMA_FIFO	include/2440/2440addr.h	258;"	d	language:C++
+rEP1_DMA_TTC_H	include/2440/2440addr.h	261;"	d	language:C++
+rEP1_DMA_TTC_L	include/2440/2440addr.h	259;"	d	language:C++
+rEP1_DMA_TTC_M	include/2440/2440addr.h	260;"	d	language:C++
+rEP1_DMA_UNIT	include/2440/2440addr.h	257;"	d	language:C++
+rEP1_FIFO	include/2440/2440addr.h	252;"	d	language:C++
+rEP2_DMA_CON	include/2440/2440addr.h	262;"	d	language:C++
+rEP2_DMA_FIFO	include/2440/2440addr.h	264;"	d	language:C++
+rEP2_DMA_TTC_H	include/2440/2440addr.h	267;"	d	language:C++
+rEP2_DMA_TTC_L	include/2440/2440addr.h	265;"	d	language:C++
+rEP2_DMA_TTC_M	include/2440/2440addr.h	266;"	d	language:C++
+rEP2_DMA_UNIT	include/2440/2440addr.h	263;"	d	language:C++
+rEP2_FIFO	include/2440/2440addr.h	253;"	d	language:C++
+rEP3_DMA_CON	include/2440/2440addr.h	268;"	d	language:C++
+rEP3_DMA_FIFO	include/2440/2440addr.h	270;"	d	language:C++
+rEP3_DMA_TTC_H	include/2440/2440addr.h	273;"	d	language:C++
+rEP3_DMA_TTC_L	include/2440/2440addr.h	271;"	d	language:C++
+rEP3_DMA_TTC_M	include/2440/2440addr.h	272;"	d	language:C++
+rEP3_DMA_UNIT	include/2440/2440addr.h	269;"	d	language:C++
+rEP3_FIFO	include/2440/2440addr.h	254;"	d	language:C++
+rEP4_DMA_CON	include/2440/2440addr.h	274;"	d	language:C++
+rEP4_DMA_FIFO	include/2440/2440addr.h	276;"	d	language:C++
+rEP4_DMA_TTC_H	include/2440/2440addr.h	279;"	d	language:C++
+rEP4_DMA_TTC_L	include/2440/2440addr.h	277;"	d	language:C++
+rEP4_DMA_TTC_M	include/2440/2440addr.h	278;"	d	language:C++
+rEP4_DMA_UNIT	include/2440/2440addr.h	275;"	d	language:C++
+rEP4_FIFO	include/2440/2440addr.h	255;"	d	language:C++
+rEP_INT_EN_REG	include/2440/2440addr.h	238;"	d	language:C++
+rEP_INT_REG	include/2440/2440addr.h	236;"	d	language:C++
+rEXTINT0	include/2440/2440addr.h	350;"	d	language:C++
+rEXTINT1	include/2440/2440addr.h	351;"	d	language:C++
+rEXTINT2	include/2440/2440addr.h	352;"	d	language:C++
+rFLTOUT	include/2440/2440addr.h	366;"	d	language:C++
+rFRAME_NUM1_REG	include/2440/2440addr.h	240;"	d	language:C++
+rFRAME_NUM2_REG	include/2440/2440addr.h	241;"	d	language:C++
+rFUNC_ADDR_REG	include/2440/2440addr.h	234;"	d	language:C++
+rGPACON	boot/nand.c	26;"	d	language:C	file:
+rGPACON	include/2440/2440addr.h	313;"	d	language:C++
+rGPADAT	boot/nand.c	27;"	d	language:C	file:
+rGPADAT	include/2440/2440addr.h	314;"	d	language:C++
+rGPBCON	include/2440/2440addr.h	316;"	d	language:C++
+rGPBDAT	include/2440/2440addr.h	317;"	d	language:C++
+rGPBUP	include/2440/2440addr.h	318;"	d	language:C++
+rGPCCON	include/2440/2440addr.h	320;"	d	language:C++
+rGPCDAT	include/2440/2440addr.h	321;"	d	language:C++
+rGPCUP	include/2440/2440addr.h	322;"	d	language:C++
+rGPDCON	include/2440/2440addr.h	324;"	d	language:C++
+rGPDDAT	include/2440/2440addr.h	325;"	d	language:C++
+rGPDUP	include/2440/2440addr.h	326;"	d	language:C++
+rGPECON	include/2440/2440addr.h	328;"	d	language:C++
+rGPEDAT	include/2440/2440addr.h	329;"	d	language:C++
+rGPEUP	include/2440/2440addr.h	330;"	d	language:C++
+rGPFCON	include/2440/2440addr.h	332;"	d	language:C++
+rGPFDAT	include/2440/2440addr.h	333;"	d	language:C++
+rGPFUP	include/2440/2440addr.h	334;"	d	language:C++
+rGPGCON	include/2440/2440addr.h	336;"	d	language:C++
+rGPGDAT	include/2440/2440addr.h	337;"	d	language:C++
+rGPGUP	include/2440/2440addr.h	338;"	d	language:C++
+rGPHCON	include/2440/2440addr.h	340;"	d	language:C++
+rGPHDAT	include/2440/2440addr.h	341;"	d	language:C++
+rGPHUP	include/2440/2440addr.h	342;"	d	language:C++
+rGPJCON	include/2440/2440addr.h	344;"	d	language:C++
+rGPJDAT	include/2440/2440addr.h	345;"	d	language:C++
+rGPJUP	include/2440/2440addr.h	346;"	d	language:C++
+rGREENLUT	include/2440/2440addr.h	106;"	d	language:C++
+rGSTATUS0	include/2440/2440addr.h	359;"	d	language:C++
+rGSTATUS1	include/2440/2440addr.h	360;"	d	language:C++
+rGSTATUS2	include/2440/2440addr.h	361;"	d	language:C++
+rGSTATUS3	include/2440/2440addr.h	362;"	d	language:C++
+rGSTATUS4	include/2440/2440addr.h	363;"	d	language:C++
+rIICADD	include/2440/2440addr.h	289;"	d	language:C++
+rIICCON	include/2440/2440addr.h	287;"	d	language:C++
+rIICDS	include/2440/2440addr.h	290;"	d	language:C++
+rIICLC	include/2440/2440addr.h	291;"	d	language:C++
+rIICSTAT	include/2440/2440addr.h	288;"	d	language:C++
+rIISCON	include/2440/2440addr.h	294;"	d	language:C++
+rIISFCON	include/2440/2440addr.h	297;"	d	language:C++
+rIISMOD	include/2440/2440addr.h	295;"	d	language:C++
+rIISPSR	include/2440/2440addr.h	296;"	d	language:C++
+rINDEX_REG	include/2440/2440addr.h	242;"	d	language:C++
+rINTMOD	include/2440/2440addr.h	36;"	d	language:C++
+rINTMSK	include/2440/2440addr.h	37;"	d	language:C++
+rINTOFFSET	include/2440/2440addr.h	40;"	d	language:C++
+rINTPND	include/2440/2440addr.h	39;"	d	language:C++
+rINTSUBMSK	include/2440/2440addr.h	42;"	d	language:C++
+rIN_CSR1_REG	include/2440/2440addr.h	245;"	d	language:C++
+rIN_CSR2_REG	include/2440/2440addr.h	246;"	d	language:C++
+rLCDCON1	include/2440/2440addr.h	97;"	d	language:C++
+rLCDCON2	include/2440/2440addr.h	98;"	d	language:C++
+rLCDCON3	include/2440/2440addr.h	99;"	d	language:C++
+rLCDCON4	include/2440/2440addr.h	100;"	d	language:C++
+rLCDCON5	include/2440/2440addr.h	101;"	d	language:C++
+rLCDINTMSK	include/2440/2440addr.h	112;"	d	language:C++
+rLCDINTPND	include/2440/2440addr.h	110;"	d	language:C++
+rLCDSADDR1	include/2440/2440addr.h	102;"	d	language:C++
+rLCDSADDR2	include/2440/2440addr.h	103;"	d	language:C++
+rLCDSADDR3	include/2440/2440addr.h	104;"	d	language:C++
+rLCDSRCPND	include/2440/2440addr.h	111;"	d	language:C++
+rLOCKTIME	include/2440/2440addr.h	87;"	d	language:C++
+rMAXP_REG	include/2440/2440addr.h	243;"	d	language:C++
+rMISCCR	include/2440/2440addr.h	348;"	d	language:C++
+rMPLLCON	include/2440/2440addr.h	88;"	d	language:C++
+rMSLCON	include/2440/2440addr.h	369;"	d	language:C++
+rNFADDR	boot/nand.c	10;"	d	language:C	file:
+rNFADDR	include/2440/2440addr.h	121;"	d	language:C++
+rNFCMD	boot/nand.c	9;"	d	language:C	file:
+rNFCMD	include/2440/2440addr.h	120;"	d	language:C++
+rNFCONF	boot/nand.c	7;"	d	language:C	file:
+rNFCONF	include/2440/2440addr.h	118;"	d	language:C++
+rNFCONT	boot/nand.c	8;"	d	language:C	file:
+rNFCONT	include/2440/2440addr.h	119;"	d	language:C++
+rNFDATA	boot/nand.c	11;"	d	language:C	file:
+rNFDATA	include/2440/2440addr.h	122;"	d	language:C++
+rNFDATA8	boot/nand.c	12;"	d	language:C	file:
+rNFDATA8	include/2440/2440addr.h	123;"	d	language:C++
+rNFEBLK	boot/nand.c	24;"	d	language:C	file:
+rNFEBLK	include/2440/2440addr.h	135;"	d	language:C++
+rNFESTAT0	boot/nand.c	18;"	d	language:C	file:
+rNFESTAT0	include/2440/2440addr.h	129;"	d	language:C++
+rNFESTAT1	boot/nand.c	19;"	d	language:C	file:
+rNFESTAT1	include/2440/2440addr.h	130;"	d	language:C++
+rNFMECC0	boot/nand.c	20;"	d	language:C	file:
+rNFMECC0	include/2440/2440addr.h	131;"	d	language:C++
+rNFMECC1	boot/nand.c	21;"	d	language:C	file:
+rNFMECC1	include/2440/2440addr.h	132;"	d	language:C++
+rNFMECCD0	boot/nand.c	14;"	d	language:C	file:
+rNFMECCD0	include/2440/2440addr.h	125;"	d	language:C++
+rNFMECCD1	boot/nand.c	15;"	d	language:C	file:
+rNFMECCD1	include/2440/2440addr.h	126;"	d	language:C++
+rNFSBLK	boot/nand.c	23;"	d	language:C	file:
+rNFSBLK	include/2440/2440addr.h	134;"	d	language:C++
+rNFSECC	boot/nand.c	22;"	d	language:C	file:
+rNFSECC	include/2440/2440addr.h	133;"	d	language:C++
+rNFSECCD	boot/nand.c	16;"	d	language:C	file:
+rNFSECCD	include/2440/2440addr.h	127;"	d	language:C++
+rNFSTAT	boot/nand.c	17;"	d	language:C	file:
+rNFSTAT	include/2440/2440addr.h	128;"	d	language:C++
+rOUT_CSR1_REG	include/2440/2440addr.h	247;"	d	language:C++
+rOUT_CSR2_REG	include/2440/2440addr.h	248;"	d	language:C++
+rOUT_FIFO_CNT1_REG	include/2440/2440addr.h	249;"	d	language:C++
+rOUT_FIFO_CNT2_REG	include/2440/2440addr.h	250;"	d	language:C++
+rPRIORITY	include/2440/2440addr.h	38;"	d	language:C++
+rPWR_REG	include/2440/2440addr.h	235;"	d	language:C++
+rREDLUT	include/2440/2440addr.h	105;"	d	language:C++
+rRTCALM	include/2440/2440addr.h	374;"	d	language:C++
+rRTCCON	include/2440/2440addr.h	372;"	d	language:C++
+rRTCRST	include/2440/2440addr.h	381;"	d	language:C++
+rSDIBSIZE	include/2440/2440addr.h	427;"	d	language:C++
+rSDICARG	include/2440/2440addr.h	419;"	d	language:C++
+rSDICCON	include/2440/2440addr.h	420;"	d	language:C++
+rSDICON	include/2440/2440addr.h	417;"	d	language:C++
+rSDICSTA	include/2440/2440addr.h	421;"	d	language:C++
+rSDIDAT	include/2440/2440addr.h	433;"	d	language:C++
+rSDIDCNT	include/2440/2440addr.h	429;"	d	language:C++
+rSDIDCON	include/2440/2440addr.h	428;"	d	language:C++
+rSDIDSTA	include/2440/2440addr.h	430;"	d	language:C++
+rSDIDTIMER	include/2440/2440addr.h	426;"	d	language:C++
+rSDIFSTA	include/2440/2440addr.h	431;"	d	language:C++
+rSDIIMSK	include/2440/2440addr.h	432;"	d	language:C++
+rSDIPRE	include/2440/2440addr.h	418;"	d	language:C++
+rSDIRSP0	include/2440/2440addr.h	422;"	d	language:C++
+rSDIRSP1	include/2440/2440addr.h	423;"	d	language:C++
+rSDIRSP2	include/2440/2440addr.h	424;"	d	language:C++
+rSDIRSP3	include/2440/2440addr.h	425;"	d	language:C++
+rSPCON0	include/2440/2440addr.h	401;"	d	language:C++
+rSPCON1	include/2440/2440addr.h	408;"	d	language:C++
+rSPPIN0	include/2440/2440addr.h	403;"	d	language:C++
+rSPPIN1	include/2440/2440addr.h	410;"	d	language:C++
+rSPPRE0	include/2440/2440addr.h	404;"	d	language:C++
+rSPPRE1	include/2440/2440addr.h	411;"	d	language:C++
+rSPRDAT0	include/2440/2440addr.h	406;"	d	language:C++
+rSPRDAT1	include/2440/2440addr.h	413;"	d	language:C++
+rSPSTA0	include/2440/2440addr.h	402;"	d	language:C++
+rSPSTA1	include/2440/2440addr.h	409;"	d	language:C++
+rSPTDAT0	include/2440/2440addr.h	405;"	d	language:C++
+rSPTDAT1	include/2440/2440addr.h	412;"	d	language:C++
+rSRCPND	include/2440/2440addr.h	35;"	d	language:C++
+rSUBSRCPND	include/2440/2440addr.h	41;"	d	language:C++
+rTCFG0	include/2440/2440addr.h	214;"	d	language:C++
+rTCFG1	include/2440/2440addr.h	215;"	d	language:C++
+rTCMPB0	include/2440/2440addr.h	218;"	d	language:C++
+rTCMPB1	include/2440/2440addr.h	221;"	d	language:C++
+rTCMPB2	include/2440/2440addr.h	224;"	d	language:C++
+rTCMPB3	include/2440/2440addr.h	227;"	d	language:C++
+rTCNTB0	include/2440/2440addr.h	217;"	d	language:C++
+rTCNTB1	include/2440/2440addr.h	220;"	d	language:C++
+rTCNTB2	include/2440/2440addr.h	223;"	d	language:C++
+rTCNTB3	include/2440/2440addr.h	226;"	d	language:C++
+rTCNTB4	include/2440/2440addr.h	229;"	d	language:C++
+rTCNTO0	include/2440/2440addr.h	219;"	d	language:C++
+rTCNTO1	include/2440/2440addr.h	222;"	d	language:C++
+rTCNTO2	include/2440/2440addr.h	225;"	d	language:C++
+rTCNTO3	include/2440/2440addr.h	228;"	d	language:C++
+rTCNTO4	include/2440/2440addr.h	230;"	d	language:C++
+rTCON	include/2440/2440addr.h	216;"	d	language:C++
+rTCONSEL	include/2440/2440addr.h	113;"	d	language:C++
+rTICNT	include/2440/2440addr.h	373;"	d	language:C++
+rTPAL	include/2440/2440addr.h	109;"	d	language:C++
+rUBRDIV0	include/2440/2440addr.h	184;"	d	language:C++
+rUBRDIV1	include/2440/2440addr.h	194;"	d	language:C++
+rUBRDIV2	include/2440/2440addr.h	203;"	d	language:C++
+rUCON0	include/2440/2440addr.h	177;"	d	language:C++
+rUCON1	include/2440/2440addr.h	187;"	d	language:C++
+rUCON2	include/2440/2440addr.h	196;"	d	language:C++
+rUERSTAT0	include/2440/2440addr.h	181;"	d	language:C++
+rUERSTAT1	include/2440/2440addr.h	191;"	d	language:C++
+rUERSTAT2	include/2440/2440addr.h	200;"	d	language:C++
+rUFCON0	include/2440/2440addr.h	178;"	d	language:C++
+rUFCON1	include/2440/2440addr.h	188;"	d	language:C++
+rUFCON2	include/2440/2440addr.h	197;"	d	language:C++
+rUFSTAT0	include/2440/2440addr.h	182;"	d	language:C++
+rUFSTAT1	include/2440/2440addr.h	192;"	d	language:C++
+rUFSTAT2	include/2440/2440addr.h	201;"	d	language:C++
+rULCON0	include/2440/2440addr.h	176;"	d	language:C++
+rULCON1	include/2440/2440addr.h	186;"	d	language:C++
+rULCON2	include/2440/2440addr.h	195;"	d	language:C++
+rUMCON0	include/2440/2440addr.h	179;"	d	language:C++
+rUMCON1	include/2440/2440addr.h	189;"	d	language:C++
+rUMCON2	include/2440/2440addr.h	198;"	d	language:C++
+rUMSTAT0	include/2440/2440addr.h	183;"	d	language:C++
+rUMSTAT1	include/2440/2440addr.h	193;"	d	language:C++
+rUMSTAT2	include/2440/2440addr.h	202;"	d	language:C++
+rUPLLCON	include/2440/2440addr.h	89;"	d	language:C++
+rURXH0	include/2440/2440addr.h	207;"	d	language:C++
+rURXH1	include/2440/2440addr.h	209;"	d	language:C++
+rURXH2	include/2440/2440addr.h	211;"	d	language:C++
+rUSB_INT_EN_REG	include/2440/2440addr.h	239;"	d	language:C++
+rUSB_INT_REG	include/2440/2440addr.h	237;"	d	language:C++
+rUTRSTAT0	include/2440/2440addr.h	180;"	d	language:C++
+rUTRSTAT1	include/2440/2440addr.h	190;"	d	language:C++
+rUTRSTAT2	include/2440/2440addr.h	199;"	d	language:C++
+rUTXH0	include/2440/2440addr.h	206;"	d	language:C++
+rUTXH1	include/2440/2440addr.h	208;"	d	language:C++
+rUTXH2	include/2440/2440addr.h	210;"	d	language:C++
+rWTCNT	include/2440/2440addr.h	284;"	d	language:C++
+rWTCON	include/2440/2440addr.h	282;"	d	language:C++
+rWTDAT	include/2440/2440addr.h	283;"	d	language:C++
+raise	lib/string.c	/^void raise (int sig)$/;"	f	language:C	signature:(int sig)
+ram_rw	fs/blk_rw.c	/^LOCAL i32 ram_rw (u8 rw,u32 blk_nr,u32 blks_cnt,void *buf)$/;"	f	language:C	signature:(u8 rw,u32 blk_nr,u32 blks_cnt,void *buf)
+ramdsk	fs/ramdisk.c	/^LOCAL   u8  *ramdsk;$/;"	v	language:C
+rdread	fs/ramdisk.c	/^i32 rdread (void *buf,u32 blk_nr,u32 blks_cnt)$/;"	f	language:C	signature:(void *buf,u32 blk_nr,u32 blks_cnt)
+rdwrite	fs/ramdisk.c	/^i32 rdwrite (void *buf,u32 blk_nr,u32 blks_cnt)$/;"	f	language:C	signature:(void *buf,u32 blk_nr,u32 blks_cnt)
+re_restart	kernel/start.S	/^re_restart:                             \/* ret from kernel *\/$/;"	l	language:Asm
+read_blk	kernel/drv/blk/blk_drv.c	/^i8 read_blk (void *buf,i32 blk_nr)$/;"	f	language:C	signature:(void *buf,i32 blk_nr)
+read_dev_inode	fs/inode.c	/^LOCAL void read_dev_inode (MEM_INODE *m_inode) $/;"	f	language:C	signature:(MEM_INODE *m_inode)
+read_ibmap	fs/super.c	/^LOCAL void read_ibmap (MEM_SUPER_BLOCK *sb) $/;"	f	language:C	signature:(MEM_SUPER_BLOCK *sb)
+read_ramdisk	kernel/ramdisk.c	/^void read_ramdisk (void)$/;"	f	language:C	signature:(void)
+rebuild_mmu	kernel/task.c	/^void rebuild_mmu (void)$/;"	f	language:C	signature:(void)
+recvm	lib/mail.c	/^i32 recvm (i32 from,i32 *sender,u32 *msg,void *buf,u32 size)$/;"	f	language:C	signature:(i32 from,i32 *sender,u32 *msg,void *buf,u32 size)
+regs	include/ecasey/pcb.h	/^    REGS_FRAME      regs;$/;"	m	language:C++	struct:pcb_st
+replym	lib/mail.c	/^i32 replym (i32 to,u32 umsg,void *src,u32 len)$/;"	f	language:C	signature:(i32 to,u32 umsg,void *src,u32 len)
+reset	boot/high_vect.S	/^reset:$/;"	l	language:Asm
+reset	boot/start.S	/^reset:$/;"	l	language:Asm
+restart	kernel/start.S	/^restart:                                \/* restore context *\/$/;"	l	language:Asm
+ret	include/ecasey/mail.h	/^        int         ret;$/;"	m	language:C++	union:_mail_st::_msg
+root	include/ecasey/fs.h	/^    cw_st       root,cwd;$/;"	m	language:C++	struct:proc_st
+s_regs_frame	include/ecasey/pcb.h	/^typedef struct s_regs_frame {$/;"	s	language:C++
+save_cpu_bus_freq	kernel/clock.c	/^void save_cpu_bus_freq (void)$/;"	f	language:C	signature:(void)
+sb_dev	include/ecasey/fs.h	/^    u16         sb_dev;                      \/\/ dev num$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_dirt	include/ecasey/fs.h	/^    u8          sb_dirt;                     \/\/ modified flag$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_first_datazone	include/ecasey/fs.h	/^    u32         sb_first_datazone;           \/* first data blknr *\/$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_first_datazone	include/ecasey/fs.h	/^    u32         sb_first_datazone;           \/\/ first data logic blk nr$/;"	m	language:C++	struct:tagDEV_SUPER_BLOCK
+sb_i_mounted	include/ecasey/fs.h	/^    MEM_INODE   *sb_i_mounted;               \/\/ mounted fs inode nr$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_i_nr	include/ecasey/fs.h	/^    MEM_INODE   *sb_i_nr;                    \/\/ mounted fs root dir inode nr$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_imap_bh	include/ecasey/fs.h	/^    BUFFER_HEAD *sb_imap_bh[NR_IMAP_BLKS];  \/\/ max imap blocks$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_imap_blocks	include/ecasey/fs.h	/^    u32         sb_imap_blocks;              \/\/ inode map blks $/;"	m	language:C++	struct:tagDEV_SUPER_BLOCK
+sb_imap_blocks	include/ecasey/fs.h	/^    u32         sb_imap_blocks;             $/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_locked	include/ecasey/fs.h	/^    u8          sb_locked;                   \/\/ locked ?$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_log_zone_size	include/ecasey/fs.h	/^    u32         sb_log_zone_size;            \/* log2(data_blks\/logic blks)*\/$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_log_zone_size	include/ecasey/fs.h	/^    u32         sb_log_zone_size;            \/\/ log2(data_blks\/logic blks)$/;"	m	language:C++	struct:tagDEV_SUPER_BLOCK
+sb_magic	include/ecasey/fs.h	/^    u32         sb_magic;                    \/* fs magic num *\/$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_magic	include/ecasey/fs.h	/^    u32         sb_magic;                    \/\/ fs magic num$/;"	m	language:C++	struct:tagDEV_SUPER_BLOCK
+sb_max_size	include/ecasey/fs.h	/^    u32         sb_max_size;                 \/* file max size *\/$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_max_size	include/ecasey/fs.h	/^    u32         sb_max_size;                 \/\/ file max size$/;"	m	language:C++	struct:tagDEV_SUPER_BLOCK
+sb_ninodes	include/ecasey/fs.h	/^    u32         sb_ninodes;                  \/* total inodes *\/$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_ninodes	include/ecasey/fs.h	/^    u32         sb_ninodes;                  \/\/ total inodes $/;"	m	language:C++	struct:tagDEV_SUPER_BLOCK
+sb_nzones	include/ecasey/fs.h	/^    u32         sb_nzones;                   \/* totol logic blks *\/$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_nzones	include/ecasey/fs.h	/^    u32         sb_nzones;                   \/\/ totol logic blks $/;"	m	language:C++	struct:tagDEV_SUPER_BLOCK
+sb_pos	include/ecasey/fs.h	/^    u32         sb_pos;                      $/;"	m	language:C++	struct:tagDEV_SUPER_BLOCK
+sb_pos	include/ecasey/fs.h	/^    u32         sb_pos;$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_ro	include/ecasey/fs.h	/^    u8          sb_ro;						 \/\/ read only flag$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_time	include/ecasey/fs.h	/^    u32         sb_time;                     \/\/ modified time$/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_zmap_bh	include/ecasey/fs.h	/^    BUFFER_HEAD *sb_zmap_bh[NR_ZMAP_BLKS];    \/\/ max zmap blocks $/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_zmap_blocks	include/ecasey/fs.h	/^    u32         sb_zmap_blocks;              $/;"	m	language:C++	struct:tagMEM_SUPER_BLOCK
+sb_zmap_blocks	include/ecasey/fs.h	/^    u32         sb_zmap_blocks;              \/\/ logical map blks $/;"	m	language:C++	struct:tagDEV_SUPER_BLOCK
+schedule	kernel/sched.c	/^i32 schedule (void)$/;"	f	language:C	signature:(void)
+sd_rw	fs/sdcard.c	/^i32 sd_rw (u8 rw,u32 blk_nr,u32 blks_cnt,void *buf)$/;"	f	language:C	signature:(u8 rw,u32 blk_nr,u32 blks_cnt,void *buf)
+sec	include/ecasey/rtc.h	/^    char    sec;$/;"	m	language:C++	struct:_systime
+sendm	lib/mail.c	/^i32 sendm (i32 to,u32 umsg,void *src,u32 len)$/;"	f	language:C	signature:(i32 to,u32 umsg,void *src,u32 len)
+set_domain	include/2440/cache.h	175;"	d	language:C++
+set_high_vector	include/2440/cache.h	88;"	d	language:C++
+set_irq	kernel/vector.c	/^void set_irq (i32 irq_nr,u32 func)$/;"	f	language:C	signature:(i32 irq_nr,u32 func)
+set_little_endian	include/2440/cache.h	98;"	d	language:C++
+set_low_vector	include/2440/cache.h	77;"	d	language:C++
+set_robin_replacement	include/2440/cache.h	65;"	d	language:C++
+set_sys_call	kernel/swi.c	29;"	d	language:C	file:
+set_ttb_base	include/2440/cache.h	212;"	d	language:C++
+setb	fs/bmap.c	/^LOCAL INLINE u8 setb (u8 *addr,u32 bitno)$/;"	f	language:C	signature:(u8 *addr,u32 bitno)
+setd	fs/namei.c	/^i8 *setd (RO i8 *path)$/;"	f	language:C	signature:(RO i8 *path)
+settime	lib/libc.c	/^i32 settime (systm_st *t)$/;"	f	language:C	signature:(systm_st *t)
+setup_syscalls	kernel/swi.c	/^void setup_syscalls (void)$/;"	f	language:C	signature:(void)
+share_kernel_space	kernel/task.c	/^void share_kernel_space (u32 dest_ttb,u32 vaddr,u32 size)$/;"	f	language:C	signature:(u32 dest_ttb,u32 vaddr,u32 size)
+sigmap	include/ecasey/pcb.h	/^    unsigned        sigmap;         \/* signal bit map *\/$/;"	m	language:C++	struct:pcb_st
+size	include/sys/types.h	34;"	d	language:C++
+skip_atoi	lib/string.c	/^static int skip_atoi(const char **s)$/;"	f	language:C	file:	signature:(const char **s)
+sleep_pid	kernel/drv/chr/tty.c	/^i32 sleep_pid = 0;$/;"	v	language:C
+sleep_task	kernel/sched.c	/^void sleep_task (TASK *task)$/;"	f	language:C	signature:(TASK *task)
+sp	include/ecasey/pcb.h	/^    unsigned    sp;                 \/* usr sp *\/$/;"	m	language:C++	struct:s_regs_frame
+sprintf	lib/string.c	/^int sprintf (char* dbuf,const char* fmt,...)$/;"	f	language:C	signature:(char* dbuf,const char* fmt,...)
+spsr	include/ecasey/pcb.h	/^    unsigned    spsr;               \/* spsr *\/$/;"	m	language:C++	struct:s_regs_frame
+src	include/ecasey/mail.h	/^    void            *src;           \/* text src*\/$/;"	m	language:C++	struct:_mail_st
+st_atime	include/sys/stat.h	/^	u32	    st_atime;   \/* latest access time *\/$/;"	m	language:C++	struct:stat
+st_ctime	include/sys/stat.h	/^	u32	    st_ctime;   \/* create time *\/$/;"	m	language:C++	struct:stat
+st_dev	include/sys/stat.h	/^	u16	    st_dev;$/;"	m	language:C++	struct:stat
+st_gid	include/sys/stat.h	/^	u16	    st_gid;$/;"	m	language:C++	struct:stat
+st_ino	include/sys/stat.h	/^	u32	    st_ino;$/;"	m	language:C++	struct:stat
+st_mode	include/sys/stat.h	/^	u16	    st_mode;$/;"	m	language:C++	struct:stat
+st_mtime	include/sys/stat.h	/^	u32	    st_mtime;   \/* latest modified time *\/$/;"	m	language:C++	struct:stat
+st_nlink	include/sys/stat.h	/^	u16 	st_nlink;$/;"	m	language:C++	struct:stat
+st_rdev	include/sys/stat.h	/^	u16	    st_rdev;$/;"	m	language:C++	struct:stat
+st_size	include/sys/stat.h	/^	u32	    st_size;$/;"	m	language:C++	struct:stat
+st_uid	include/sys/stat.h	/^	u16	    st_uid;$/;"	m	language:C++	struct:stat
+start_mmu	lib/klib/mmu.c	/^void start_mmu (void)$/;"	f	language:C	signature:(void)
+stat	include/sys/stat.h	/^struct stat {$/;"	s	language:C++
+state	include/ecasey/pcb.h	/^    char            state;          \/* task state *\/$/;"	m	language:C++	struct:pcb_st
+stime	include/ecasey/mail.h	/^    unsigned        stime;          \/* send time *\/$/;"	m	language:C++	struct:_mail_st
+strcat	lib/string.c	/^char *strcat (char* dest,const char *src)$/;"	f	language:C	signature:(char* dest,const char *src)
+strcmp	lib/string.c	/^int strcmp (const char *str1,const char *str2) $/;"	f	language:C	signature:(const char *str1,const char *str2)
+strcpy	lib/string.c	/^char *strcpy (char *dest,const char *src)$/;"	f	language:C	signature:(char *dest,const char *src)
+strlen	lib/string.c	/^int strlen (const char *src) $/;"	f	language:C	signature:(const char *src)
+strncmp	lib/string.c	/^int strncmp (const char *str1,const char *str2,int len) $/;"	f	language:C	signature:(const char *str1,const char *str2,int len)
+strncpy	lib/string.c	/^char* strncpy (char *dest,const char *src,int len) $/;"	f	language:C	signature:(char *dest,const char *src,int len)
+strtol	lib/string.c	/^long strtol (const char *src,char **err_pos,int base) $/;"	f	language:C	signature:(const char *src,char **err_pos,int base)
+super_blk	fs/super.c	/^MEM_SUPER_BLOCK super_blk [NR_SBLKS];$/;"	v	language:C
+switch_to	kernel/sched.c	/^void switch_to (TASK *to)$/;"	f	language:C	signature:(TASK *to)
+sync_blks	fs/buffer.c	/^u32 sync_blks (u32 blks_cnt) $/;"	f	language:C	signature:(u32 blks_cnt)
+sync_dcaches	lib/klib/mmu.c	/^void sync_dcaches (void)$/;"	f	language:C	signature:(void)
+sync_dev_blks	fs/buffer.c	/^void sync_dev_blks (u16 dev_no)$/;"	f	language:C	signature:(u16 dev_no)
+sync_dev_inodes	fs/inode.c	/^void sync_dev_inodes (void)$/;"	f	language:C	signature:(void)
+sync_tl	lib/libc.c	/^u32 sync_tl (void)$/;"	f	language:C	signature:(void)
+sync_tl_cache	kernel/drv/blk/blk_drv.c	/^LOCAL i16 sync_tl_cache (void)$/;"	f	language:C	signature:(void)
+sys_adc	kernel/drv/adc.c	/^u32 sys_adc (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_call_tbl	kernel/swi.c	/^LOCAL SYS_CALL sys_call_tbl[MAX_SYSCALL] = {0};$/;"	v	language:C
+sys_exit	kernel/exit.c	/^i32 sys_exit (i32 exit_code) $/;"	f	language:C	signature:(i32 exit_code)
+sys_getchs	kernel/drv/chr/tty.c	/^u32 sys_getchs (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_getpos	kernel/drv/touchpl.c	/^u32 sys_getpos (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_gettime	kernel/drv/rtc.c	/^i32 sys_gettime (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_lcd_write	kernel/swi.c	/^i32 sys_lcd_write (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_pause	kernel/swi.c	/^i32 sys_pause (void)$/;"	f	language:C	signature:(void)
+sys_pickm	kernel/ipc/kmail.c	/^i32 sys_pickm (mail_st *m) $/;"	f	language:C	signature:(mail_st *m)
+sys_postm	kernel/ipc/kmail.c	/^i32 sys_postm (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_recvm	kernel/ipc/kmail.c	/^i32  sys_recvm (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_replym	kernel/ipc/kmail.c	/^i32 sys_replym (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_rw_nand	kernel/drv/blk/blk_drv.c	/^i32 sys_rw_nand (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_sendm	kernel/ipc/kmail.c	/^i32 sys_sendm (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_settime	kernel/drv/rtc.c	/^i32 sys_settime (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+sys_sync_tl	kernel/drv/blk/blk_drv.c	/^i32 sys_sync_tl (void)$/;"	f	language:C	signature:(void)
+sys_uart_write	kernel/swi.c	/^i32 sys_uart_write (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+systm_st	include/ecasey/rtc.h	/^}systm_st;$/;"	t	language:C++	typeref:struct:_systime
+tCPU_FREQ	kernel/clock.c	/^			tCPU_FREQ,	\/* cpu freq *\/$/;"	v	language:C
+tFCLK	kernel/clock.c	/^			tFCLK,		\/* fclk *\/$/;"	v	language:C
+tHCLK	kernel/clock.c	/^			tHCLK,		\/* hclk *\/$/;"	v	language:C
+tPCLK	kernel/clock.c	/^u32  	    tPCLK,		\/* pclk *\/$/;"	v	language:C
+tUCLK	kernel/clock.c	/^			tUCLK ;		\/* USB CLOCK *\/$/;"	v	language:C
+tUPLL	kernel/clock.c	/^			tUPLL,		\/* USB *\/$/;"	v	language:C
+tagBUFFER_HEAD	include/ecasey/fs.h	/^typedef struct tagBUFFER_HEAD{$/;"	s	language:C++
+tagDEV_INODE	include/ecasey/fs.h	/^typedef struct tagDEV_INODE{$/;"	s	language:C++
+tagDEV_SUPER_BLOCK	include/ecasey/fs.h	/^typedef struct tagDEV_SUPER_BLOCK{$/;"	s	language:C++
+tagDIR_ENTRY	include/ecasey/fs.h	/^typedef struct tagDIR_ENTRY{$/;"	s	language:C++
+tagMEM_INODE	include/ecasey/fs.h	/^typedef struct tagMEM_INODE{$/;"	s	language:C++
+tagMEM_SUPER_BLOCK	include/ecasey/fs.h	/^typedef struct tagMEM_SUPER_BLOCK{$/;"	s	language:C++
+tail	include/ecasey/pcb.h	/^    struct pcb_st   *head,*tail;    \/* send mail queue *\/$/;"	m	language:C++	struct:pcb_st	typeref:struct:pcb_st::
+task_st	kernel/task.c	/^TASK*    task_st[MAX_TASKS] = {0};$/;"	v	language:C
+tick	include/ecasey/pcb.h	/^    char            tick;           \/* round life tick *\/$/;"	m	language:C++	struct:pcb_st
+tl_cache	kernel/drv/blk/blk_drv.c	/^LOCAL tl_cache_st *tl_cache = (void*)0;$/;"	v	language:C
+tl_cache_st	kernel/drv/blk/blk_drv.c	/^}tl_cache_st;$/;"	t	language:C	typeref:struct:_tl_cache_st	file:
+to	include/ecasey/mail.h	/^    int             from,to;        \/* from\/to whom ? *\/$/;"	m	language:C++	struct:_mail_st
+touch_prc	kernel/drv/touchpl.c	/^LOCAL void touch_prc (void)$/;"	f	language:C	signature:(void)
+touchpl_init	kernel/drv/touchpl.c	/^void touchpl_init (void) $/;"	f	language:C	signature:(void)
+true	include/sys/types.h	24;"	d	language:C++
+try_to_send	kernel/ipc/kmail.c	/^LOCAL i32 try_to_send (mail_st *m)$/;"	f	language:C	signature:(mail_st *m)
+ttb_base	include/ecasey/pcb.h	/^    unsigned        ttb_base;       \/* ttb base *\/$/;"	m	language:C++	struct:pcb_st
+u16	include/sys/types.h	/^typedef unsigned short      u16;$/;"	t	language:C++
+u32	include/sys/types.h	/^typedef unsigned long       u32;$/;"	t	language:C++
+u64	include/sys/types.h	/^typedef unsigned __int64	u64;$/;"	t	language:C++
+u64	include/sys/types.h	/^typedef unsigned long long  u64;$/;"	t	language:C++
+u8	include/sys/types.h	/^typedef unsigned char       u8;$/;"	t	language:C++
+uart_conf	lib/klib/uart.c	/^void uart_conf (i32 uart,u32 pclk,u32 baud)$/;"	f	language:C	signature:(i32 uart,u32 pclk,u32 baud)
+uart_intr_conf	lib/klib/uart.c	/^void uart_intr_conf (u32 prc)$/;"	f	language:C	signature:(u32 prc)
+uart_no	lib/klib/uart.c	/^LOCAL i32  uart_no = 0;                \/* uart 0 is used by default *\/$/;"	v	language:C
+uart_printf	lib/klib/uart.c	/^i32 uart_printf(RO i8 *fmt,...)$/;"	f	language:C	signature:(RO i8 *fmt,...)
+uart_recv	kernel/drv/chr/tty.c	/^void uart_recv (void)$/;"	f	language:C	signature:(void)
+uart_recvc	lib/klib/uart.c	/^u8 uart_recvc (void)$/;"	f	language:C	signature:(void)
+uart_sendc	lib/klib/uart.c	/^u8 uart_sendc (u8 ch)$/;"	f	language:C	signature:(u8 ch)
+uart_sends	lib/klib/uart.c	/^RO i8* uart_sends (RO i8 *s)$/;"	f	language:C	signature:(RO i8 *s)
+umsg	include/ecasey/mail.h	/^        unsigned    umsg;$/;"	m	language:C++	union:_mail_st::_msg
+unset_irq	kernel/vector.c	/^void unset_irq (i32 irq_nr)$/;"	f	language:C	signature:(i32 irq_nr)
+unused	include/ecasey/fs.h	/^    u16         unused[4];                  \/* reserved for ecasey *\/$/;"	m	language:C++	struct:tagDEV_INODE
+unused	include/ecasey/fs.h	/^    u16         unused[4];                  \/* reserved for ecasey *\/$/;"	m	language:C++	struct:tagMEM_INODE
+use_uart	lib/klib/uart.c	/^void use_uart (i32 uart)$/;"	f	language:C	signature:(i32 uart)
+v2p	include/2440/ports.h	11;"	d	language:C++
+va_arg	include/stdarg.h	12;"	d	language:C++
+va_end	include/stdarg.h	13;"	d	language:C++
+va_list	include/stdarg.h	/^typedef char* 	    	va_list;$/;"	t	language:C++
+va_start	include/stdarg.h	11;"	d	language:C++
+vaddr	kernel/kmalloc.c	/^	u32     vaddr;$/;"	m	language:C	struct:page	file:
+valid	kernel/drv/blk/blk_drv.c	/^    i16     valid;$/;"	m	language:C	struct:_map_tab_st	file:
+virt_to_page	kernel/kmalloc.c	/^struct page *virt_to_page(u32 addr)$/;"	f	language:C	signature:(u32 addr)
+vsprintf	lib/string.c	/^int vsprintf(char *buf, const char *fmt, va_list args)$/;"	f	language:C	signature:(char *buf, const char *fmt, va_list args)
+wait_down	kernel/drv/touchpl.c	12;"	d	language:C	file:
+wait_up	kernel/drv/touchpl.c	13;"	d	language:C	file:
+wake_task	kernel/sched.c	/^void wake_task (TASK *task)$/;"	f	language:C	signature:(TASK *task)
+warn	fs/crash.c	/^i32 warn (RO i8 *fmt,...)$/;"	f	language:C	signature:(RO i8 *fmt,...)
+wordset	lib/klib/mmu.c	/^void *wordset (void *s,u32 w,i32 size)$/;"	f	language:C	signature:(void *s,u32 w,i32 size)
+write_blk	kernel/drv/blk/blk_drv.c	/^LOCAL i8 write_blk (i32 blk_nr,void *src)$/;"	f	language:C	signature:(i32 blk_nr,void *src)
+write_dev_inode	fs/inode.c	/^LOCAL void write_dev_inode (MEM_INODE *m_inode) $/;"	f	language:C	signature:(MEM_INODE *m_inode)
+x	kernel/drv/touchpl.c	/^LOCAL u16 x,y;$/;"	v	language:C
+xprintf	lib/libc.c	/^i32 xprintf (RO i8 *fmt,...) $/;"	f	language:C	signature:(RO i8 *fmt,...)
+xprintk	include/ecasey/kernel.h	39;"	d	language:C++
+y	kernel/drv/touchpl.c	/^LOCAL u16 x,y;$/;"	v	language:C
+year	include/ecasey/rtc.h	/^    char    year;$/;"	m	language:C++	struct:_systime

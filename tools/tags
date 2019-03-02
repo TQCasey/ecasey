@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BLKS_PER_NANDF	main.c	14;"	d	file:
+BYTES_PER_PAGE	main.c	11;"	d	file:
+FILE_MODE	main.c	9;"	d	file:
+PAGES_PER_BLK	main.c	13;"	d	file:
+SP_BYTES_PER_PAGE	main.c	12;"	d	file:
+dsp	main.c	18;"	d	file:
+main	main.c	/^int main (int argc,char *argv[])$/;"	f	signature:(int argc,char *argv[])
+open	main.c	/^extern  int open (const char*,unsigned,unsigned);$/;"	p	file:	signature:(const char*,unsigned,unsigned)
